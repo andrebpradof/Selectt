@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$USER_HOME$/AppData/Local/Temp" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpStepFilterConfiguration">
+    <skipped_functions>
+      <skipped_function name="log_message" />
+      <skipped_function name="CI_Config-&gt;__construct" />
+      <skipped_function name="load_class" />
+      <skipped_function name="CI_Hooks-&gt;__construct" />
+      <skipped_function name="require_once" />
+      <skipped_function name="_shutdown_handler" />
+      <skipped_function name="CI_Email-&gt;__destruct" />
+    </skipped_functions>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/../../php/phpunit-7.5.16.phar" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
+</project>

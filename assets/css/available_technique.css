@@ -1,0 +1,22 @@
+#techniquesTable_length { 
+    padding: 0 25px;
+    margin: auto;
+}
+
+#techniquesTable_filter {
+    padding-bottom: 30px;
+}
+
+#techniquesTable_filter label {
+    padding: 0 5px;
+    margin: auto;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+
+#footerTable {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
