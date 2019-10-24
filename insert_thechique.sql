@@ -1,8 +1,8 @@
 
 -- Pega o último id das técnicas
 SELECT @technique_id := MAX(id) FROM technique;
--- Uma um na chave
-SET @var_id := @technique_id + 1;
+-- Soma um na chave
+set @var_id := @techniques_id + 1;
 
 -- Inserir na tabela Technique
 -- Alterar title, year, bibTex e link

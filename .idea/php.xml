@@ -15,6 +15,7 @@
       <skipped_function name="require_once" />
       <skipped_function name="_shutdown_handler" />
       <skipped_function name="CI_Email-&gt;__destruct" />
+      <skipped_function name="Results-&gt;resultsTechniques" />
     </skipped_functions>
   </component>
   <component name="PhpUnit">
