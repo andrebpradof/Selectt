@@ -144,7 +144,7 @@ class Results extends MY_Controller { // Verificacao de login
 				}
 			}
 		}
-
+/*
 		for ($i = 0; $i < count($result) - 1; $i++) {
 			for ($j = 0; $j < count($result) - $i - 1; $j++) {
 				if ($result[$j+1]['concurrentBugs']['max_value'] > $result[$j]['concurrentBugs']['max_value']) {
@@ -155,8 +155,6 @@ class Results extends MY_Controller { // Verificacao de login
 			}
 		}
 
-
-/*
 		for ($i = 0; $i < count($result) - 1; $i++) {
 			for ($j = 0; $j < count($result) - $i - 1; $j++) {
 				if ($result[$j+1]['concurrentBugs']['max_value'] > $result[$j]['concurrentBugs']['max_value']) {
@@ -169,7 +167,7 @@ class Results extends MY_Controller { // Verificacao de login
 */
 
 		$data['info'] 	= $resultTechnique;
-		$data['result'] = $result;
+		$data['result'] = $bugsResult;
 		
 			
 		// echo "<pre>";
