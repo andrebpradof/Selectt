@@ -49,7 +49,7 @@ class Results extends MY_Controller { // Verificacao de login
 
 
 		foreach ($allTechniques as $technique) {
-			$result[$count]['id']	 = $technique['id']; 
+			$result[$count]['id']	 = $technique['id'];
 			$result[$count]['title'] = $technique['title'];
 			$result[$count]['link'] = $technique['link'];
 
@@ -123,10 +123,20 @@ class Results extends MY_Controller { // Verificacao de login
 			$count++;
 		}
 
+		for ($i = 0; $i < count($result) - 1; $i++) {
+			for ($j = 0; $j < count($result) - $i - 1; $j++) {
+				if ($result[$j+1]['result_weight'] > $result[$j]['result_weight']) {
+					$temp = $result[$j];
+					$result[$j] =  $result[$j+1];
+					$result[$j+1] = $temp;
+				}
+			}
+		}
+
 		if($numBugsUser != 0) {
 			for ($i = 0; $i < $numBugsUser; $i++) {
 				for ($j = 0; $j < count($bugsResult); $j++) {
-					if (strcasecmp($bugsResult[$i]['concurrentBug'], $resultTechnique['concurrentBugs'][$i]) == 0) {
+					if (strcasecmp($bugsResult[$j]['concurrentBug'], $resultTechnique['concurrentBugs'][$i]) == 0) {
 						$temp = $bugsResult[$j];
 						$bugsResult[$j] = $bugsResult[$i];
 						$bugsResult[$i] = $temp;
@@ -144,17 +154,19 @@ class Results extends MY_Controller { // Verificacao de login
 				}
 			}
 		}
-/*
-		for ($i = 0; $i < count($result) - 1; $i++) {
-			for ($j = 0; $j < count($result) - $i - 1; $j++) {
-				if ($result[$j+1]['concurrentBugs']['max_value'] > $result[$j]['concurrentBugs']['max_value']) {
-					$temp = $result[$j];
-					$result[$j] =  $result[$j+1];
-					$result[$j+1] = $temp;
+
+		for($k = 0; $k < sizeof($bugsResult); $k++) {
+			for ($i = 0; $i < sizeof($bugsResult[$k]['technique']) - 1; $i++) {
+				for ($j = 0; $j < sizeof($bugsResult[$k]['technique']) - $i - 1; $j++) {
+					if ($bugsResult[$k]['technique'][$j + 1]['result_weight'] > $bugsResult[$k]['technique'][$j]['result_weight']) {
+						$temp = $bugsResult[$k]['technique'][$j];
+						$bugsResult[$k]['technique'][$j] = $bugsResult[$k]['technique'][$j + 1];
+						$bugsResult[$k]['technique'][$j + 1] = $temp;
+					}
 				}
 			}
 		}
-
+/*
 		for ($i = 0; $i < count($result) - 1; $i++) {
 			for ($j = 0; $j < count($result) - $i - 1; $j++) {
 				if ($result[$j+1]['concurrentBugs']['max_value'] > $result[$j]['concurrentBugs']['max_value']) {

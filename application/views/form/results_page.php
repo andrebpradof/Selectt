@@ -135,37 +135,46 @@
 	<h3>Legend</h3>
 	<!-- View button -->
 	<div style="font-size: 14pt; line-height: 24px;border-style: solid; font-weight: normal;background-color: white;padding: 5px ;margin: 5px ; width: 100%">
-		<span class="box" style="background-color: #5cb85c"></span>- Programming model
+		<span class="box" style="background-color: #5cb85c"></span> - Programming model
 		<span class="box" style="background-color: #5bc0de"></span> - General testing characteristics
 		<span class="box" style="background-color: #f0ad4e"></span> - Concurrent testing characteristics
 		<span class="box" style="background-color: #d9534f"></span> - Testing tool support
-		</p>
 	</div>
 
 	<br>
 	<br>
 	<br>
 
-	<? // $count = 0; ?>
+	<? $count = 0; ?>
 	<?php for($i = 0; $i<sizeof($result);$i++) : ?>
-		<hr style="border: 3px solid black"/>
-		<h2 align="left">
-			Concurrent Bug:
-			<?= $result[$i]['concurrentBug']; ?>
-		</h2>
+			<div style="float: left; width: 100%">
+				<hr style="border: 3px solid black;" <?//= ($count >= 5) ? "hidden" : "" ?>/>
+			</div>
+			<div style="width: 75%; float: left">
+				<h2 align="left" <?//= ($count >= 5) ? "hidden" : "" ?>>
+					Concurrent Bug:
+					<?= ucfirst($result[$i]['concurrentBug']); ?>
+				</h2>
+			</div>
+			<div style="width: 24%;float: right;margin-left: 1%">
+				<h2 align="center" <?//= ($count >= 5) ? "hidden" : "" ?>>
+					Test Level:
+				</h2>
+			</div>
+
 		<?php foreach ($result[$i]['technique'] as $technique) : ?>
 			<? $resultWeight = $technique['result_weight'] * 100; ?>
 
 			<? if ($resultWeight > 75.00) : ?>
-				<div class="panel panel-success" style="width: 80%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<div class="panel panel-success" style="width: 75%; float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 			<? elseif ($resultWeight > 50.00) : ?>
-				<div class="panel panel-info" style="width: 80%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<div class="panel panel-info" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 			<? elseif ($resultWeight > 25.00) : ?>
-				<div class="panel panel-warning" style="width: 80%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<div class="panel panel-warning" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 			<? else : ?>
-				<div class="panel panel-danger" style="width: 80%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<div class="panel panel-danger" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 				<? endif; ?>
-				<? //$count++; ?>
+
 				<div class="clickable panel-heading" >
 					<h3 class="panel-title">
 						<span style="font-size: 16pt;">
@@ -252,21 +261,23 @@
 						</table>
 					</div>
 				</div>
+
 					<? if ($resultWeight > 75.00) : ?>
-						<div class="panel panel-success" style="width: 20%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<div class="panel panel-success" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 					<? elseif ($resultWeight > 50.00) : ?>
-						<div class="panel panel-info" style="width: 20%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<div class="panel panel-info" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 					<? elseif ($resultWeight > 25.00) : ?>
-						<div class="panel panel-warning" style="width: 20%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<div class="panel panel-warning" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 					<? else : ?>
-						<div class="panel panel-danger" style="width: 20%" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<div class="panel panel-danger" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 					<? endif; ?>
 
-							<div class="clickable panel-heading" >
-
+							<div class="clickable panel-heading" style="height: 121px;width: 100%; display: table; position: relative;">
+								<h3 style="margin: 0; display: table-cell; vertical-align: middle; text-align: center;"><?= ucfirst($technique['testingLevel'][0]['baseValue']); ?> testing</h3>
 							</div>
 						</div>
 		<? endforeach; ?>
+		<? //$count++; ?>
 	<? endfor; ?>
 
 	<button id="showAll" style="margin-top: 50px; border: 1px solid #8c8b8b;" class="btn btn-block btn-primary">View all Results</button>
