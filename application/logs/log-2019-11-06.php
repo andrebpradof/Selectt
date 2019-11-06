@@ -107,3 +107,7 @@ ERROR - 2019-11-06 12:41:23 --> Severity: Notice --> Undefined index: 3549d19a-b
 ERROR - 2019-11-06 12:41:25 --> Severity: Notice --> Undefined index: 3549d19a-b170-4617-829a-b0ab16fdc136 xdebug://debug-eval 1
 ERROR - 2019-11-06 12:41:49 --> Severity: Notice --> Undefined index: 3549d19a-b170-4617-829a-b0ab16fdc136 xdebug://debug-eval 1
 ERROR - 2019-11-06 12:42:16 --> Severity: Notice --> Undefined index: 3549d19a-b170-4617-829a-b0ab16fdc136 xdebug://debug-eval 1
+ERROR - 2019-11-06 12:52:53 --> Severity: error --> Exception: Call to undefined function simple_quick_sort() C:\xampp\htdocs\~selectt\application\controllers\Results.php 53
+ERROR - 2019-11-06 12:54:09 --> Severity: Notice --> Undefined index: 3549d19a-b170-4617-829a-b0ab16fdc136 xdebug://debug-eval 1
+ERROR - 2019-11-06 12:56:11 --> Severity: Notice --> Undefined index: 3549d19a-b170-4617-829a-b0ab16fdc136 xdebug://debug-eval 1
+ERROR - 2019-11-06 12:56:59 --> Severity: Notice --> Undefined index: 3549d19a-b170-4617-829a-b0ab16fdc136 xdebug://debug-eval 1

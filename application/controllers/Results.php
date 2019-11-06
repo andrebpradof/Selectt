@@ -83,7 +83,7 @@ class Results extends MY_Controller { // Verificacao de login
 			$count++;
 		}// end foreach
 
-		// order by weight
+	// order by weight
 		for ($i = 0; $i < count($result) - 1; $i++) {
 			for ($j = 0; $j < count($result) - $i - 1; $j++) {
 				if ($result[$j+1]['result_weight'] > $result[$j]['result_weight']) {
@@ -93,6 +93,7 @@ class Results extends MY_Controller { // Verificacao de login
 				}
 			}
 		}
+
 
 		// cria o vetor $bugsResult
 		$count = 0;
@@ -115,7 +116,6 @@ class Results extends MY_Controller { // Verificacao de login
 							$temp[0]['technique'][] = $singleResult;
 							array_splice($bugsResult,$count,0,$temp);
 							$count++;
-							//array_unshift($bugsResult,$temp);
 							$flagUserBug = true;
 							break;
 						}
@@ -131,51 +131,9 @@ class Results extends MY_Controller { // Verificacao de login
 			}
 		}
 
-/*
-		// Encontra o bug inserido pelo usuário
-		if($numBugsUser != 0) {
-			for ($i = 0; $i < $numBugsUser; $i++) {
-				for ($j = 0; $j < count($bugsResult); $j++) {
-					if (strcasecmp($bugsResult[$j]['concurrentBug'], $resultTechnique['concurrentBugs'][$i]) == 0) {
-						$temp = $bugsResult[$j];
-						$bugsResult[$j] = $bugsResult[$i];
-						$bugsResult[$i] = $temp;
-					}
-				}
-			}
-		}// fim
-
-		// Ordena por peso do bug
-		for($k = 0; $k < sizeof($bugsResult); $k++) {
-			for ($i = 0; $i < sizeof($bugsResult[$k]['technique']) - 1; $i++) {
-				for ($j = 0; $j < sizeof($bugsResult[$k]['technique']) - $i - 1; $j++) {
-					if ($bugsResult[$k]['technique'][$j + 1]['result_weight'] > $bugsResult[$k]['technique'][$j]['result_weight']) {
-						$temp = $bugsResult[$k]['technique'][$j];
-						$bugsResult[$k]['technique'][$j] = $bugsResult[$k]['technique'][$j + 1];
-						$bugsResult[$k]['technique'][$j + 1] = $temp;
-					}
-				}
-			}
-		}
-
-		for($i = $numBugsUser; $i < sizeof($bugsResult); $i++){
-			for ($j = $numBugsUser; $j < count($bugsResult) - $i - 1; $j++) {
-				if ($bugsResult[$j+1]['concurrentBugWeight'] > $bugsResult[$j]['concurrentBugWeight']) {
-					$temp = $bugsResult[$j];
-					$bugsResult[$j] =  $bugsResult[$j+1];
-					$bugsResult[$j+1] = $temp;
-				}
-			}
-		}
-*/
 
 		$data['info'] 	= $resultTechnique;
 		$data['result'] = $bugsResult;
-
-
-		// echo "<pre>";
-		// print_r($data);
-		// echo "<pre>";
 
 		$this->load->view('form/results_page', $data);
 	}
