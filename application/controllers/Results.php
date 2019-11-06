@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
- 
+
 class Results extends MY_Controller { // Verificacao de login
 
  	public function __construct()
@@ -11,7 +11,7 @@ class Results extends MY_Controller { // Verificacao de login
     }
 
 	public function index()
-	{	
+	{
 		if ( !$this->session->has_userdata('result_user') ) {
 			$data['userResults'] = $this->result->getUserResults($this->session->userdata("username"));
 			$this->load->view('form/results_page_none', $data);
@@ -26,7 +26,7 @@ class Results extends MY_Controller { // Verificacao de login
 	{
 		$answer = $this->result->checkIfExistResult ($id);
 		if ($answer === 1) {
-			$this->session->set_userdata( 
+			$this->session->set_userdata(
 				array('result_user' => $id)
 			);
 		}
@@ -36,20 +36,18 @@ class Results extends MY_Controller { // Verificacao de login
 	protected function resultsTechniques ($id)
 	{
 		// echo $id;
-		$allWeights    	 = $this->utility->getFields();
-		$allTechniques 	 = $this->technique->buildTechniques();
+		$allWeights = $this->utility->getFields();
+		$allTechniques = $this->technique->buildTechniques();
 		$resultTechnique = $this->result->buildTechniqueResult($id);
 
-		$result = array ();
+		$result = array();
 		$bugsResult = array();
-		$count	= 0;
-		$techniqueBugs = array();
+		$count = 0;
 		$numBugsUser = sizeof($resultTechnique['concurrentBugs']);
 
 
-
 		foreach ($allTechniques as $technique) {
-			$result[$count]['id']	 = $technique['id'];
+			$result[$count]['id'] = $technique['id'];
 			$result[$count]['title'] = $technique['title'];
 			$result[$count]['link'] = $technique['link'];
 
@@ -64,12 +62,12 @@ class Results extends MY_Controller { // Verificacao de login
 
 			foreach ($allWeights['fields'] as $weight) {
 				// just to help reading the code ...
-				$idTemp 		= $weight['html_id'];
-				$compareField 	= $resultTechnique[$idTemp];
-				$originalField  = $technique[ucfirst($idTemp)];
-				$weightValue 	= $weight['weight'];
+				$idTemp = $weight['html_id'];
+				$compareField = $resultTechnique[$idTemp];
+				$originalField = $technique[ucfirst($idTemp)];
+				$weightValue = $weight['weight'];
 
-				$result[$count][$idTemp] = $this->utility->generateFieldsForCompare ($originalField, $compareField, $weightValue );
+				$result[$count][$idTemp] = $this->utility->generateFieldsForCompare($originalField, $compareField, $weightValue);
 				$resultWeight += floatval($result[$count][$idTemp]['max_value']);
 
 				// category progress bar each category has a limit !
@@ -78,44 +76,12 @@ class Results extends MY_Controller { // Verificacao de login
 				$result[$count][$idTemp]['atribute'] = $weight['atribute'];
 				$result[$count][$idTemp]['match'] = $result[$count][$idTemp]['isMatch'];
 
+				$result[$count][$idTemp]['features'] = $originalField;
 
-				if(strcasecmp($idTemp,"concurrentBugs") == 0) {
-					$techniqueBugs = $originalField;
-					$flag = 0;
-					for ($i = 0; $i < count($originalField); $i++) {
-						for ($j = 0; $j < count($bugsResult); $j++) {
-							if (strcasecmp($bugsResult[$j]['concurrentBug'], $originalField[$i]) == 0) {
-								$bugsResult[$j]['technique'][] = $result[$count];
-								$flag = 1;
-								break;
-							}
-						}
-						if ($flag == 0) {
-							$last = sizeof($bugsResult);
-							$bugsResult[$last]['concurrentBug'] = $originalField[$i];
-							$bugsResult[$last]['technique'][] = $result[$count];
-						}
-						$flag = 0;
-					}
-				}
-			}
+			}// end foreach
 			$result[$count]['result_weight'] = $resultWeight;
-
-			for($i=0;$i<sizeof($techniqueBugs);$i++) {
-				for ($j = 0; $j < sizeof($bugsResult); $j++) {
-					if (strcasecmp($bugsResult[$j]['concurrentBug'],$techniqueBugs[$i]) == 0){
-						for($k = 0; $k<sizeof($bugsResult[$j]['technique']);$k++){
-							if ($bugsResult[$j]['technique'][$k]['id'] == $result[$count]['id']){
-								$bugsResult[$j]['technique'][$k]['result_weight'] = $resultWeight;
-								$bugsResult[$j]['technique'][$k]['Testing tool support'] = $result[$count]['Testing tool support'];
-							}
-						}
-					}
-				}
-			}
-
 			$count++;
-		}
+		}// end foreach
 
 		// order by weight
 		for ($i = 0; $i < count($result) - 1; $i++) {
@@ -128,6 +94,45 @@ class Results extends MY_Controller { // Verificacao de login
 			}
 		}
 
+		// cria o vetor $bugsResult
+		$count = 0;
+		foreach ($result as $singleResult){
+			$temp = array();
+			$flagExist = false;
+			$flagUserBug = false;
+			for($i = 0; $i < sizeof($singleResult['concurrentBugs']['features']); $i++){
+				for($j = 0; $j < sizeof($bugsResult); $j++){
+					if(strcasecmp($bugsResult[$j]['concurrentBug'],$singleResult['concurrentBugs']['features'][$i]) == 0){
+						$bugsResult[$j]['technique'][] = $singleResult;
+						$flagExist = true;
+						break;
+					}
+				}
+				if (!$flagExist) { // Ainda não existe o bug no vetor
+					for($k = 0; $k<$numBugsUser; $k++){
+						if(strcasecmp($singleResult['concurrentBugs']['features'][$i],$resultTechnique['concurrentBugs'][$k]) == 0){
+							$temp[0]['concurrentBug'] = $singleResult['concurrentBugs']['features'][$i];
+							$temp[0]['technique'][] = $singleResult;
+							array_splice($bugsResult,$count,0,$temp);
+							$count++;
+							//array_unshift($bugsResult,$temp);
+							$flagUserBug = true;
+							break;
+						}
+					}
+					if(!$flagUserBug){
+						$last = sizeof($bugsResult);
+						$bugsResult[$last]['concurrentBug'] = $singleResult['concurrentBugs']['features'][$i];
+						$bugsResult[$last]['technique'][] = $singleResult;
+					}
+				}
+				$flagExist = false;
+				$flagUserBug = false;
+			}
+		}
+
+/*
+		// Encontra o bug inserido pelo usuário
 		if($numBugsUser != 0) {
 			for ($i = 0; $i < $numBugsUser; $i++) {
 				for ($j = 0; $j < count($bugsResult); $j++) {
@@ -138,8 +143,9 @@ class Results extends MY_Controller { // Verificacao de login
 					}
 				}
 			}
-		}
+		}// fim
 
+		// Ordena por peso do bug
 		for($k = 0; $k < sizeof($bugsResult); $k++) {
 			for ($i = 0; $i < sizeof($bugsResult[$k]['technique']) - 1; $i++) {
 				for ($j = 0; $j < sizeof($bugsResult[$k]['technique']) - $i - 1; $j++) {
@@ -151,7 +157,7 @@ class Results extends MY_Controller { // Verificacao de login
 				}
 			}
 		}
-/*
+
 		for($i = $numBugsUser; $i < sizeof($bugsResult); $i++){
 			for ($j = $numBugsUser; $j < count($bugsResult) - $i - 1; $j++) {
 				if ($bugsResult[$j+1]['concurrentBugWeight'] > $bugsResult[$j]['concurrentBugWeight']) {
@@ -161,22 +167,12 @@ class Results extends MY_Controller { // Verificacao de login
 				}
 			}
 		}
-
-		for ($i = 0; $i < count($result) - 1; $i++) {
-			for ($j = 0; $j < count($result) - $i - 1; $j++) {
-				if ($result[$j+1]['concurrentBugs']['max_value'] > $result[$j]['concurrentBugs']['max_value']) {
-					$temp = $result[$j];
-					$result[$j] =  $result[$j+1];
-					$result[$j+1] = $temp;
-				}
-			}
-		}
 */
 
 		$data['info'] 	= $resultTechnique;
 		$data['result'] = $bugsResult;
-		
-			
+
+
 		// echo "<pre>";
 		// print_r($data);
 		// echo "<pre>";
