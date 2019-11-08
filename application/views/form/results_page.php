@@ -146,6 +146,7 @@
 	<br>
 
 	<? $count = 0; ?>
+	<?php $idPanel = 0; ?>
 	<?php for($i = 0; $i<sizeof($result);$i++) : ?>
 			<div style="float: left; width: 100%">
 				<hr style="border: 3px solid black;" <?//= ($count >= 5) ? "hidden" : "" ?>/>
@@ -161,121 +162,126 @@
 					Test Level:
 				</h2>
 			</div>
-
 		<?php foreach ($result[$i]['technique'] as $technique) : ?>
-			<? $resultWeight = $technique['result_weight'] * 100; ?>
 
-			<? if ($resultWeight > 75.00) : ?>
-				<div class="panel panel-success" style="width: 75%; float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-			<? elseif ($resultWeight > 50.00) : ?>
-				<div class="panel panel-info" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-			<? elseif ($resultWeight > 25.00) : ?>
-				<div class="panel panel-warning" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-			<? else : ?>
-				<div class="panel panel-danger" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-				<? endif; ?>
+			<div class="myresult">
+				<? $resultWeight = $technique['result_weight'] * 100; ?>
 
-				<div class="clickable panel-heading" >
-					<h3 class="panel-title">
-						<span style="font-size: 16pt;">
-						<?= $technique['testingTechnique'][0]['baseValue']; ?> -
-						<?= $technique['testDataGeneration'][0]['baseValue']; ?>
-						</span>
-						<span class="pull-right">
-							<strong>MATCH: </strong><?= $resultWeight; ?>%
-							<i class="glyphicon glyphicon-minus"></i>
-						</span>
-						<br>
-							<a href="http://<?= $technique['link']; ?>" target="_blank" ><?= $technique['link']; ?></a>
-						</h3>
-						<br>
-
-
-						<div class="progress">
-							<!-- Programming model influence -->
-							<div class="bar bar-success progress-bar progress-bar-success" role="progressbar" style="width: <?= $technique['Programming model']*100; ?>%" aria-valuemax="12.53">
-								<?= $technique['Programming model']*100; ?>%
-							</div>
-
-							<!-- General testing characteristics influence -->
-							<div class="bar bar-info progress-bar progress-bar-info" role="progressbar" style="width: <?= $technique['General testing characteristics']*100; ?>%" aria-valuemax="48.72">
-								<?= $technique['General testing characteristics']*100; ?>%
-							</div>
-
-							<div class="bar bar-warning progress-bar progress-bar-warning" role="progressbar" style="width: <?= $technique['Concurrent testing characteristics']*100; ?>%" aria-valuemax="32.04">
-								<?= $technique['Concurrent testing characteristics']*100; ?>%
-							</div>
-							<div class="bar bar-danger progress-bar progress-bar-danger" role="progressbar" style="width: <?= $technique['Testing tool support']*100; ?>%" aria-valuemax="6.7">
-								<?= $technique['Testing tool support']*100; ?>%
-							</div>
-						</div>
-
-					</div>
-
-					<?
-						unset($technique['Programming model']);
-						unset($technique['General testing characteristics']);
-						unset($technique['Concurrent testing characteristics']);
-						unset($technique['Testing tool support']);
-						unset($technique['link']);
-					?>
-
-					<div class="panel-body" align="center">
-						<table border="1">
-
-							<?php foreach ($technique as $keyTechnique => $field) : ?>
-								<? if ( (strcmp ($keyTechnique, "id") === 0) || (strcmp ($keyTechnique, "result_weight") === 0) ) : ?>
-									<? continue; ?>
-								<? endif; ?>
-
-
-								<? if (strcmp ($keyTechnique, "title") == 0) : ?>
-									<thead>
-										<tr>
-											<th colspan="2"><?= $field; ?></th>
-										</tr>
-										<tr>
-											<th style="width: 50%">Atribute</th>
-											<th style="width: 50%">Match ( <i class="glyphicon glyphicon-ok"></i> or <i class="glyphicon glyphicon-remove"></i> )</th>
-										</tr>
-									</thead>
-									<? continue; ?>
-								<? else: ?>
-									<tbody>
-										<tr>
-											<td style="font-weight: 900"><?= $field['atribute']; ?></td>
-											<td style="text-align:center;">
-												<? if ($field['match'] === true) : ?>
-													<i class="glyphicon glyphicon-ok"></i>
-												<? else : ?>
-													<i class="glyphicon glyphicon-remove"></i>
-												<? endif; ?>
-											</td>
-										</tr>
-									</tbody>
-								<? endif; ?>
-
-
-							<?php endforeach; ?>
-
-						</table>
-					</div>
-				</div>
-
-					<? if ($resultWeight > 75.00) : ?>
-						<div class="panel panel-success" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-					<? elseif ($resultWeight > 50.00) : ?>
-						<div class="panel panel-info" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-					<? elseif ($resultWeight > 25.00) : ?>
-						<div class="panel panel-warning" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
-					<? else : ?>
-						<div class="panel panel-danger" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<? if ($resultWeight > 75.00) : ?>
+					<div class="panel panel-success" style="width: 75%; float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<? elseif ($resultWeight > 50.00) : ?>
+					<div class="panel panel-info" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<? elseif ($resultWeight > 25.00) : ?>
+					<div class="panel panel-warning" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+				<? else : ?>
+					<div class="panel panel-danger" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
 					<? endif; ?>
 
-							<div class="clickable panel-heading" style="height: 121px;width: 100%; display: table; position: relative;">
-								<h3 style="margin: 0; display: table-cell; vertical-align: middle; text-align: center;"><?= ucfirst($technique['testingLevel'][0]['baseValue']); ?> testing</h3>
+					<div id-panel="<?=$idPanel;?>" class="clickable panel-heading panel-collapsed" >
+						<h3 class="panel-title">
+							<span style="font-size: 16pt;">
+							<?= $technique['testingTechnique'][0]['baseValue']; ?> -
+							<?= $technique['testDataGeneration'][0]['baseValue']; ?>
+							</span>
+							<span class="pull-right">
+								<strong>MATCH: </strong><?= $resultWeight; ?>%
+								<i class="glyphicon glyphicon-minus"></i>
+							</span>
+							<br>
+								<a href="http://<?= $technique['link']; ?>" target="_blank" ><?= $technique['link']; ?></a>
+							</h3>
+							<br>
+
+
+							<div class="progress">
+								<!-- Programming model influence -->
+								<div class="bar bar-success progress-bar progress-bar-success" role="progressbar" style="width: <?= $technique['Programming model']*100; ?>%" aria-valuemax="12.53">
+									<?= $technique['Programming model']*100; ?>%
+								</div>
+
+								<!-- General testing characteristics influence -->
+								<div class="bar bar-info progress-bar progress-bar-info" role="progressbar" style="width: <?= $technique['General testing characteristics']*100; ?>%" aria-valuemax="48.72">
+									<?= $technique['General testing characteristics']*100; ?>%
+								</div>
+
+								<div class="bar bar-warning progress-bar progress-bar-warning" role="progressbar" style="width: <?= $technique['Concurrent testing characteristics']*100; ?>%" aria-valuemax="32.04">
+									<?= $technique['Concurrent testing characteristics']*100; ?>%
+								</div>
+								<div class="bar bar-danger progress-bar progress-bar-danger" role="progressbar" style="width: <?= $technique['Testing tool support']*100; ?>%" aria-valuemax="6.7">
+									<?= $technique['Testing tool support']*100; ?>%
+								</div>
 							</div>
+
 						</div>
+
+						<?
+							unset($technique['Programming model']);
+							unset($technique['General testing characteristics']);
+							unset($technique['Concurrent testing characteristics']);
+							unset($technique['Testing tool support']);
+							unset($technique['link']);
+						?>
+					</div>
+
+						<? if ($resultWeight > 75.00) : ?>
+							<div class="panel panel-success" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<? elseif ($resultWeight > 50.00) : ?>
+							<div class="panel panel-info" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<? elseif ($resultWeight > 25.00) : ?>
+							<div class="panel panel-warning" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<? else : ?>
+							<div class="panel panel-danger" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+						<? endif; ?>
+
+								<div class="panel-heading" style="height: 121px;width: 100%; display: table; position: relative;">
+									<h3 style="margin: 0; display: table-cell; vertical-align: middle; text-align: center;"><?= ucfirst($technique['testingLevel'][0]['baseValue']); ?> testing</h3>
+								</div>
+						</div>
+
+						<div class="panel panel-teste" id="panel<?=$idPanel;?>" style="display: none;">
+							<div class="panel-body" align="center">
+									<table border="1">
+
+										<?php foreach ($technique as $keyTechnique => $field) : ?>
+											<? if ( (strcmp ($keyTechnique, "id") === 0) || (strcmp ($keyTechnique, "result_weight") === 0) ) : ?>
+												<? continue; ?>
+											<? endif; ?>
+
+
+											<? if (strcmp ($keyTechnique, "title") == 0) : ?>
+												<thead>
+												<tr>
+													<th colspan="2"><?= $field; ?></th>
+												</tr>
+												<tr>
+													<th style="width: 50%">Atribute</th>
+													<th style="width: 50%">Match ( <i class="glyphicon glyphicon-ok"></i> or <i class="glyphicon glyphicon-remove"></i> )</th>
+												</tr>
+												</thead>
+												<? continue; ?>
+											<? else: ?>
+												<tbody>
+												<tr>
+													<td style="font-weight: 900"><?= $field['atribute']; ?></td>
+													<td style="text-align:center;">
+														<? if ($field['match'] === true) : ?>
+															<i class="glyphicon glyphicon-ok"></i>
+														<? else : ?>
+															<i class="glyphicon glyphicon-remove"></i>
+														<? endif; ?>
+													</td>
+												</tr>
+												</tbody>
+											<? endif; ?>
+
+
+										<?php endforeach; ?>
+
+									</table>
+								</div>
+						</div>
+				</div>
+				<?php $idPanel++; ?>
 		<? endforeach; ?>
 		<? //$count++; ?>
 	<? endfor; ?>
@@ -304,20 +310,23 @@
 		}
 	});
 	$(document).on('click', '.panel div.clickable', function (e) {
+        //console.log("oiiii");
 		var $this = $(this);
+		var idPanel = $(this).attr("id-panel");
 		if (!$this.hasClass('panel-collapsed')) {
-			$this.parents('.panel').find('.panel-body').slideUp();
+			$('#panel'+idPanel).slideUp(0);
 			$this.addClass('panel-collapsed');
 			$this.find('i').removeClass('glyphicon-minus').addClass('glyphicon-plus');
 		} else {
-			$this.parents('.panel').find('.panel-body').slideDown();
+            $('#panel'+idPanel).slideDown();
+			//$this.parents('.panel').find('.panel-body').slideDown();
 			$this.removeClass('panel-collapsed');
 			$this.find('i').removeClass('glyphicon-plus').addClass('glyphicon-minus');
 		}
 	});
 	$(document).ready(function () {
-		$('.panel-heading span.clickable').click();
-		$('.panel div.clickable').click();
+		//$('.panel-heading span.clickable').click();
+		//$('.panel div.clickable').click();
 	});
 
 	$("#showAll").click(function() {
