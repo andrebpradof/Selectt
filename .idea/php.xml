@@ -16,6 +16,9 @@
       <skipped_function name="_shutdown_handler" />
       <skipped_function name="CI_Email-&gt;__destruct" />
       <skipped_function name="Results-&gt;resultsTechniques" />
+      <skipped_function name="include" />
+      <skipped_function name="CI_Loader-&gt;_ci_load" />
+      <skipped_function name="Results-&gt;index" />
     </skipped_functions>
   </component>
   <component name="PhpUnit">

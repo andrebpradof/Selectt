@@ -109,7 +109,7 @@ class Results extends MY_Controller { // Verificacao de login
 						break;
 					}
 				}
-				if (!$flagExist) { // Ainda não existe o bug no vetor
+				if (!$flagExist) {
 					for($k = 0; $k<$numBugsUser; $k++){
 						if(strcasecmp($singleResult['concurrentBugs']['features'][$i],$resultTechnique['concurrentBugs'][$k]) == 0){
 							$temp[0]['concurrentBug'] = $singleResult['concurrentBugs']['features'][$i];

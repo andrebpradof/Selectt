@@ -51,18 +51,19 @@
 	table {
 		align-content: center;
 		align-self: center;
-		font-size: 16pt;
+		font-size: 14pt;
 		margin: 1em;
 		width: 80%;
 	}
 
 	tr th {
 		background-color: #FAF9FF;
-		font-size: 24pt;
+		font-size: 20pt;
 		text-align: center;
 	}
 
 	tr td {
+		text-align: left;
 		background-color: #BDCEFA;
 	}
 
@@ -145,36 +146,40 @@
 	<br>
 	<br>
 
-	<? $count = 0; ?>
-	<?php $idPanel = 0; ?>
+
+	<?php
+		$idPanel = 0;
+		$bugPagination = 0;
+		$detailsPagination = 0;
+	?>
 	<?php for($i = 0; $i<sizeof($result);$i++) : ?>
-			<div style="float: left; width: 100%">
-				<hr style="border: 3px solid black;" <?//= ($count >= 5) ? "hidden" : "" ?>/>
+			<div style="float: left; width: 100%" <?= ($bugPagination >= 5) ? "hidden" : "" ?>>
+				<hr style="border: 3px solid black;"/>
 			</div>
-			<div style="width: 75%; float: left">
-				<h2 align="left" <?//= ($count >= 5) ? "hidden" : "" ?>>
+			<div style="width: 75%; float: left" <?= ($bugPagination >= 5) ? "hidden" : "" ?>>
+				<h2 align="left">
 					Concurrent Bug:
 					<?= ucfirst($result[$i]['concurrentBug']); ?>
 				</h2>
 			</div>
-			<div style="width: 24%;float: right;margin-left: 1%">
-				<h2 align="center" <?//= ($count >= 5) ? "hidden" : "" ?>>
+			<div style="width: 24%;float: right;margin-left: 1%" <?= ($bugPagination >= 5) ? "hidden" : "" ?>>
+				<h2 align="center">
 					Test Level:
 				</h2>
 			</div>
 		<?php foreach ($result[$i]['technique'] as $technique) : ?>
 
-			<div class="myresult">
+			<div class="groupBug" align="center;" <?= ($bugPagination >= 5) ? "hidden" : "" ?>>
 				<? $resultWeight = $technique['result_weight'] * 100; ?>
 
 				<? if ($resultWeight > 75.00) : ?>
-					<div class="panel panel-success" style="width: 75%; float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+					<div class="panel panel-success" style="width: 75%; float: left;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 				<? elseif ($resultWeight > 50.00) : ?>
-					<div class="panel panel-info" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+					<div class="panel panel-info" style="width: 75%;float: left;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 				<? elseif ($resultWeight > 25.00) : ?>
-					<div class="panel panel-warning" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+					<div class="panel panel-warning" style="width: 75%;float: left;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 				<? else : ?>
-					<div class="panel panel-danger" style="width: 75%;float: left;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+					<div class="panel panel-danger" style="width: 75%;float: left;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 					<? endif; ?>
 
 					<div id-panel="<?=$idPanel;?>" class="clickable panel-heading panel-collapsed" >
@@ -185,7 +190,7 @@
 							</span>
 							<span class="pull-right">
 								<strong>MATCH: </strong><?= $resultWeight; ?>%
-								<i class="glyphicon glyphicon-minus"></i>
+								<i class="glyphicon glyphicon-plus"></i>
 							</span>
 							<br>
 								<a href="http://<?= $technique['link']; ?>" target="_blank" ><?= $technique['link']; ?></a>
@@ -194,12 +199,10 @@
 
 
 							<div class="progress">
-								<!-- Programming model influence -->
 								<div class="bar bar-success progress-bar progress-bar-success" role="progressbar" style="width: <?= $technique['Programming model']*100; ?>%" aria-valuemax="12.53">
 									<?= $technique['Programming model']*100; ?>%
 								</div>
 
-								<!-- General testing characteristics influence -->
 								<div class="bar bar-info progress-bar progress-bar-info" role="progressbar" style="width: <?= $technique['General testing characteristics']*100; ?>%" aria-valuemax="48.72">
 									<?= $technique['General testing characteristics']*100; ?>%
 								</div>
@@ -224,13 +227,13 @@
 					</div>
 
 						<? if ($resultWeight > 75.00) : ?>
-							<div class="panel panel-success" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+							<div class="panel panel-success" style="width: 24%; float: right; margin-left: 1%;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 						<? elseif ($resultWeight > 50.00) : ?>
-							<div class="panel panel-info" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+							<div class="panel panel-info" style="width: 24%; float: right; margin-left: 1%;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 						<? elseif ($resultWeight > 25.00) : ?>
-							<div class="panel panel-warning" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+							<div class="panel panel-warning" style="width: 24%; float: right; margin-left: 1%;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 						<? else : ?>
-							<div class="panel panel-danger" style="width: 24%; float: right; margin-left: 1%;" <?//= ($count >= 5) ? "hidden" : "" ?>>
+							<div class="panel panel-danger" style="width: 24%; float: right; margin-left: 1%;" <?= ($detailsPagination >= 5) ? "hidden" : "" ?>>
 						<? endif; ?>
 
 								<div class="panel-heading" style="height: 121px;width: 100%; display: table; position: relative;">
@@ -238,9 +241,10 @@
 								</div>
 						</div>
 
-						<div class="panel panel-teste" id="panel<?=$idPanel;?>" style="display: none;">
-							<div class="panel-body" align="center">
-									<table border="1">
+						<!-- DIV Detalhes -->
+						<div class="panel panel-details" id="panel<?=$idPanel;?>" style="display: none; width: 100%;" align="center" >
+							<div class="panel-body" align="center" style="width: 100%;">
+									<table border="1" style="width: 100%">
 
 										<?php foreach ($technique as $keyTechnique => $field) : ?>
 											<? if ( (strcmp ($keyTechnique, "id") === 0) || (strcmp ($keyTechnique, "result_weight") === 0) ) : ?>
@@ -251,18 +255,28 @@
 											<? if (strcmp ($keyTechnique, "title") == 0) : ?>
 												<thead>
 												<tr>
-													<th colspan="2"><?= $field; ?></th>
+													<th colspan="4" style="width: 100%"><?= $field; ?></th>
 												</tr>
 												<tr>
-													<th style="width: 50%">Atribute</th>
-													<th style="width: 50%">Match ( <i class="glyphicon glyphicon-ok"></i> or <i class="glyphicon glyphicon-remove"></i> )</th>
+													<th style="width: 25%">Atribute</th>
+													<th style="width: 35%">Thechnique Description</th>
+													<th style="width: 5%">Match <!--( <i class="glyphicon glyphicon-ok"></i> or <i class="glyphicon glyphicon-remove"></i> )--></th>
+													<th style="width: 35%">Project Description</th>
 												</tr>
 												</thead>
 												<? continue; ?>
 											<? else: ?>
 												<tbody>
 												<tr>
-													<td style="font-weight: 900"><?= $field['atribute']; ?></td>
+													<td style="font-weight: 800;"><?= $field['atribute']; ?></td>
+													<td>
+														<?php for($k = 0; $k < sizeof($technique[$keyTechnique]['features']); $k++) {
+															echo $technique[$keyTechnique]['features'][$k];
+															if ($k != sizeof($technique[$keyTechnique]['features']) - 1)
+																echo ", ";
+														}
+														?>
+													</td>
 													<td style="text-align:center;">
 														<? if ($field['match'] === true) : ?>
 															<i class="glyphicon glyphicon-ok"></i>
@@ -270,23 +284,34 @@
 															<i class="glyphicon glyphicon-remove"></i>
 														<? endif; ?>
 													</td>
+													<td>
+														<?php for($k = 0; $k < sizeof($info[$keyTechnique]); $k++) {
+															echo $info[$keyTechnique][$k];
+															if ($k != sizeof($info[$keyTechnique]) - 1)
+																echo ", ";
+														}
+														?>
+
+													</td>
 												</tr>
 												</tbody>
 											<? endif; ?>
-
-
 										<?php endforeach; ?>
-
 									</table>
 								</div>
-						</div>
+						</div> <!-- end Div detalhes -->
 				</div>
 				<?php $idPanel++; ?>
+				<? $detailsPagination++; ?>
 		<? endforeach; ?>
-		<? //$count++; ?>
+		<? if($detailsPagination >= 5 && $bugPagination < 5) : ?>
+			<button id="showAllResults" style="margin-top: 50px; border: 1px solid #8c8b8b;" class="btn btn-block btn-primary">View all Results</button>
+		<? endif; ?>
+		<? $bugPagination++; ?>
+		<?$detailsPagination = 0; ?>
 	<? endfor; ?>
 
-	<button id="showAll" style="margin-top: 50px; border: 1px solid #8c8b8b;" class="btn btn-block btn-primary">View all Results</button>
+	<button id="showAllBugs" style="margin-top: 50px; border: 1px solid #8c8b8b; background-color: green" class="btn btn-block btn-primary">View all Concurrent Bugs</button>
 </div>
 
 <? endif; ?>
@@ -310,7 +335,6 @@
 		}
 	});
 	$(document).on('click', '.panel div.clickable', function (e) {
-        //console.log("oiiii");
 		var $this = $(this);
 		var idPanel = $(this).attr("id-panel");
 		if (!$this.hasClass('panel-collapsed')) {
@@ -328,10 +352,9 @@
 		//$('.panel-heading span.clickable').click();
 		//$('.panel div.clickable').click();
 	});
-
 	$("#showAll").click(function() {
-	  document.getElementById(this.id).style.visibility = "hidden";
-	  $('.panel').show().fadeIn('slow');
+	  //document.getElementById(this.id).style.visibility = "hidden";
+	  //$('.panel').show().fadeIn('slow');
 	});
 
 </script>
