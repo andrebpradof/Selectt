@@ -177,13 +177,13 @@
 				<? $resultWeight = $technique['result_weight'] * 100; ?>
 
 				<? if ($resultWeight > 75.00) : ?>
-					<div class="panel panel-success <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%; float: left;" >
+					<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%; float: left;" >
 				<? elseif ($resultWeight > 50.00) : ?>
-					<div class="panel panel-info <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
+					<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
 				<? elseif ($resultWeight > 25.00) : ?>
-					<div class="panel panel-warning <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
+					<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
 				<? else : ?>
-					<div class="panel panel-danger <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
+					<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
 					<? endif; ?>
 
 					<div id-panel="<?=$idPanel;?>" class="clickable panel-heading panel-collapsed" >
@@ -231,13 +231,13 @@
 					</div>
 
 						<? if ($resultWeight > 75.00) : ?>
-							<div class="panel panel-success <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;" >
+							<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;" >
 						<? elseif ($resultWeight > 50.00) : ?>
-							<div class="panel panel-info <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+							<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
 						<? elseif ($resultWeight > 25.00) : ?>
-							<div class="panel panel-warning <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+							<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
 						<? else : ?>
-							<div class="panel panel-danger <?= ($detailsPagination >= 3) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+							<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
 						<? endif; ?>
 
 								<div class="panel-heading" style="height: 121px;width: 100%; display: table; position: relative;">
@@ -308,7 +308,7 @@
 				<?php $idPanel++; ?>
 				<? $detailsPagination++; ?>
 		<? endforeach; ?>
-		<? if($detailsPagination >= 3) : ?>
+		<? if($detailsPagination >= 5) : ?>
 			<button id="showAllResults" style="margin-top: 50px; border: 1px solid #8c8b8b;" class="btn btn-block btn-primary btn-view-details <?= ($bugPagination >= 5) ? "hidden-panel panel-bug" : "" ?>" id-pagination="<?=$bugPagination?>">View all Results</button>
 		<? endif; ?>
 		<? $bugPagination++; ?>
