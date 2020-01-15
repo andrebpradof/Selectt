@@ -147,5 +147,36 @@ class Result_model extends CI_Model
         return null;
       }
     }
+
+    function getAllUsersResults(){
+		$this->db->select('*')->from('ResultTechnique');
+		$query = $this->db->get();
+
+		$list = array();
+		$count = 0;
+
+		foreach ($query->result() as $row) {
+			$list[$count++] = array(
+				'id' => $row->id,
+				'title' => $row->title,
+				'insertedBy' => $row->insertedBy,
+				'insertedOn' => $row->insertedOn
+			);
+		}
+
+		return $list;
+	}
+
+    function getAllProjects(){
+		$allUsersResults = $this->getAllUsersResults();
+
+		$data = array();
+
+		foreach ($allUsersResults as $user){
+			$data[] = $this->buildTechniqueResult($user['id']);
+		}
+
+		return $data;
+	}
 }
 ?>

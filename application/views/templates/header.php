@@ -105,10 +105,11 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Content <span class="caret"></span></a>
 
             <ul class="dropdown-menu">
-              <li><a href="<?= base_url('content/techniques'); ?>">Techniques</a></li>
-              <li><a href="<?= base_url('content/tools'); ?>">Tools</a></li>
-              <li><a href="<?= base_url('content/statistics'); ?>">Statistics</a></li>
-              <li><a href="<?= base_url('content/screenshots'); ?>">Screen shots</a></li>
+				<li><a href="<?= base_url('content/techniques'); ?>">Techniques</a></li>
+				<li><a href="<?= base_url('content/project'); ?>">Project</a></li>
+				<li><a href="<?= base_url('content/tools'); ?>">Tools</a></li>
+				<li><a href="<?= base_url('content/statistics'); ?>">Statistics</a></li>
+				<li><a href="<?= base_url('content/screenshots'); ?>">Screen shots</a></li>
             </ul>
           </li>
 
