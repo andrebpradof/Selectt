@@ -167,13 +167,17 @@ class Result_model extends CI_Model
 		return $list;
 	}
 
+	function buildTechniqueView(){
+
+	}
+
     function getAllProjects(){
 		$allUsersResults = $this->getAllUsersResults();
 
 		$data = array();
 
 		foreach ($allUsersResults as $user){
-			$data[] = $this->buildTechniqueResult($user['id']);
+			$data['info'][] = $this->buildTechniqueResult($user['id']);
 		}
 
 		return $data;

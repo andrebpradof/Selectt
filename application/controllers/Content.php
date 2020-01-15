@@ -6,7 +6,7 @@ class Content extends CI_Controller {
 	{
 		parent::__construct();
 		$this->load->model('Available_techniques_model');
-		$this->load->model('Result_model');
+		$this->load->model('Project_page_model');
 		$this->load->model('Utilidades_model', 'utility');
 	}
 
@@ -17,7 +17,7 @@ class Content extends CI_Controller {
 	}
 
 	public function project(){
-		$data = $this->Result_model->getAllProjects();
+		$data = $this->Project_page_model->getAllProjects();
 		$this->load->view('content/project_page',$data);
 	}
 

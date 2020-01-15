@@ -26,10 +26,10 @@
 
 				<thead>
 				<tr>
-					<th>Testing Technique</th>
-					<th>Title</th>
-					<th>Testing Approach</th>
-					<th>Language</th>
+					<th>Project name</th>
+					<th>Inserted by</th>
+					<th>Inserted on</th>
+					<th>Quality attributes</th>
 					<th>Actions</th>
 				</tr>
 				</thead>
@@ -39,13 +39,20 @@
 				<? if (isset($info)): ?>
 					<?php foreach($info as $var) { ?>
 						<tr>
-							<td><?php echo $var['Technique']; ?></td>
-							<td><?php echo $var['Title']; ?></td>
-							<td><?php echo $var['Approach']; ?></td>
-							<td><?php echo $var['Language']; ?></td>
+							<td><?php echo $var['title']; ?></td>
+							<td><?php echo $var['insertedBy']; ?></td>
+							<td><?php echo $var['insertedOn']; ?></td>
+							<td><?php
+								foreach ($var['qualityAttribute'] as $aux){
+									if(sizeof($var['qualityAttribute']) == array_search($aux,$var['qualityAttribute']) + 1)
+										echo $aux;
+									else
+										echo $aux.", ";
+								}
+							?></td>
 							<td>
 								<!-- View button -->
-								<button type="button" id="<?php echo $var['ID']; ?>" class="btn btn-xs btn-primary" onclick="openModal(this.id)">
+								<button type="button" id="<?php echo $var['id']; ?>" class="btn btn-xs btn-primary" onclick="openModal(this.id)">
 									<span class="glyphicon glyphicon-eye-open"></span>
 								</button>
 							</td>
@@ -61,12 +68,12 @@
 
 <?php foreach ($info as $var) { ?>
 	<!-- Modal -->
-	<div class="modal fade in" data-backdrop="static" id="<?php echo $var['ID']; ?>myInfo" data-keyboard="true" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal fade in" data-backdrop="static" id="<?php echo $var['id']; ?>myInfo" data-keyboard="true" tabindex="-1" role="dialog" aria-hidden="true">
 
 		<div class="modal-dialog modal-lg" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h2 class="modal-title"><?php echo $var['Approach']; ?> Information</h2>
+					<h2 class="modal-title"><?php echo $var['title']; ?></h2>
 
 					<button type="button" class="close" aria-label="Close" data-dismiss="modal">
 						<span aria-hidden="true">&times;</span>
@@ -77,18 +84,21 @@
 				<div class="modal-body">
 					<div class="row">
 						<?php foreach ($var as $key => $item): ?>
-							<? if ($key == "ID") { continue; } ?>
+							<? if ($key == "id") { continue; } ?>
 
 							<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
 								<!-- <?= $item; ?> -->
 								<div class="form-group">
 									<label><?= $key; ?>:</label>
-
-									<? if ($key == "Reference"): ?>
-										<p><a href="http://<?= $item; ?>" target="_blank" ><?= $item; ?></a></p>
-									<? else: ?>
-										<p><?= $item; ?></p>
-									<? endif; ?>
+									<p><?
+										if($item == array())
+										foreach ($item as $aux){
+											if(sizeof($item) == array_search($aux,$item) + 1)
+												echo $aux;
+											else
+												echo $aux.", ";
+										}
+									?></p>
 								</div>
 							</div>
 						<?php endforeach; ?>
