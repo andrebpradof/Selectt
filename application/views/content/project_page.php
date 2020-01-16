@@ -39,12 +39,12 @@
 				<? if (isset($info)): ?>
 					<?php foreach($info as $var) { ?>
 						<tr>
-							<td><?php echo $var['title']; ?></td>
-							<td><?php echo $var['insertedBy']; ?></td>
-							<td><?php echo $var['insertedOn']; ?></td>
+							<td><?php echo $var['Title']; ?></td>
+							<td><?php echo $var['Inserted by']; ?></td>
+							<td><?php echo $var['Inserted on']; ?></td>
 							<td><?php
-								foreach ($var['qualityAttribute'] as $aux){
-									if(sizeof($var['qualityAttribute']) == array_search($aux,$var['qualityAttribute']) + 1)
+								foreach ($var['Quality attribute'] as $aux){
+									if(sizeof($var['Quality attribute']) == array_search($aux,$var['Quality attribute']) + 1)
 										echo $aux;
 									else
 										echo $aux.", ";
@@ -52,7 +52,7 @@
 							?></td>
 							<td>
 								<!-- View button -->
-								<button type="button" id="<?php echo $var['id']; ?>" class="btn btn-xs btn-primary" onclick="openModal(this.id)">
+								<button type="button" id="<?php echo $var['ID']; ?>" class="btn btn-xs btn-primary" onclick="openModal(this.id)">
 									<span class="glyphicon glyphicon-eye-open"></span>
 								</button>
 							</td>
@@ -68,12 +68,12 @@
 
 <?php foreach ($info as $var) { ?>
 	<!-- Modal -->
-	<div class="modal fade in" data-backdrop="static" id="<?php echo $var['id']; ?>myInfo" data-keyboard="true" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal fade in" data-backdrop="static" id="<?php echo $var['ID']; ?>myInfo" data-keyboard="true" tabindex="-1" role="dialog" aria-hidden="true">
 
 		<div class="modal-dialog modal-lg" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h2 class="modal-title"><?php echo $var['title']; ?></h2>
+					<h2 class="modal-title"><?php echo $var['Title']; ?></h2>
 
 					<button type="button" class="close" aria-label="Close" data-dismiss="modal">
 						<span aria-hidden="true">&times;</span>
@@ -84,20 +84,23 @@
 				<div class="modal-body">
 					<div class="row">
 						<?php foreach ($var as $key => $item): ?>
-							<? if ($key == "id") { continue; } ?>
+							<? if ($key == "ID") { continue; } ?>
 
 							<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
 								<!-- <?= $item; ?> -->
 								<div class="form-group">
 									<label><?= $key; ?>:</label>
 									<p><?
-										if($item == array())
-										foreach ($item as $aux){
-											if(sizeof($item) == array_search($aux,$item) + 1)
-												echo $aux;
-											else
-												echo $aux.", ";
+										if(is_array($item)) {
+											foreach ($item as $aux) {
+												if (sizeof($item) == array_search($aux, $item) + 1)
+													echo $aux;
+												else
+													echo $aux . ", ";
+											}
 										}
+										else
+											echo $item;
 									?></p>
 								</div>
 							</div>
@@ -135,7 +138,7 @@
 
             initComplete: function () {
                 var count = 0;
-                this.api().columns([0,2,3]).every( function () {
+                this.api().columns([0,1,2,3]).every( function () {
                     var column = this;
                     var select = $('<select><option value="">Show all</option></select>')
                         .appendTo( $(column.header()) )

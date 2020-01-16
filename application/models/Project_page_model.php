@@ -8,25 +8,6 @@ class Project_page_model extends CI_Model
 		parent::__construct();
 	}
 
-	function getAllUsersResults(){
-		$this->db->select('*')->from('ResultTechnique');
-		$query = $this->db->get();
-
-		$list = array();
-		$count = 0;
-
-		foreach ($query->result() as $row) {
-			$list[$count++] = array(
-				'id' => $row->id,
-				'title' => $row->title,
-				'insertedBy' => $row->insertedBy,
-				'insertedOn' => $row->insertedOn
-			);
-		}
-
-		return $list;
- 	}
-
 	function getTablesResultTechniqueView(){
 		return $techniqueTables = array(
 			"ResultExecutionPlatform"         => "executionPlatform",
@@ -53,20 +34,50 @@ class Project_page_model extends CI_Model
 		);
 	}
 
-	function buildTechniqueView ($id)
+	function getModelView($vector){
+		return $techniqueTables = array(
+			"ID"						=> $vector['id'],
+			"Title"						=> $vector['title'],
+			"Inserted by"				=> $vector['insertedBy'],
+			"Inserted on"				=> $vector['insertedOn'],
+			"Execution platform"         => $vector['executionPlatform'],
+			"Objective"                 => $vector['objective'],
+			"Programming language"       => $vector['programmingLanguage'],
+			"Testing technique"          => $vector['testingTechnique'],
+			"Test data generation"        => $vector['testDataGeneration'],
+			"Testing level"              => $vector['testingLevel'],
+			"Synchronization mechanism"  => $vector['synchronizationMechanism'],
+			"Input"                     => $vector['input'],
+			"Output"                    => $vector['output'],
+			"Quality attribute"          => $vector['qualityAttribute'],
+			"Type of study"               => $vector['typeOfStudy'],
+			"Testing analysis"           => $vector['testingAnalysis'],
+			"Concurrent paradigm"        => $vector['concurrentParadigm'],
+			"Replay mechanism"           => $vector['replayMechanism'],
+			"Program representation"     => $vector['programRepresentation'],
+			"Instrumentation"           => $vector['instrumentation'],
+			"State spaceReduction"       => $vector['stateSpaceReduction'],
+			"Concurrent bugs"            => $vector['concurrentBugs'],
+			"Tool name"                  => $vector['toolName'],
+			"Cost"                      => $vector['cost'],
+			"PlatformTool"              => $vector['platformTool']
+		);
+	}
+
+	function getAllProjects ()
 	{
 		$technique = null;
 		$query     = null;
+		$data = array();
 
-		$query = $this->db->select('*')->from('ResultTechnique')->where('id', $id)->limit(1)->get();
+		$query = $this->db->select('*')->from('ResultTechnique')->get();
 
-		if ($query->num_rows() === 1)
-		{
-			// initialize the array with all the info
-			$techniqueResult = array ();
+		// initialize the array with all the info
+		$techniqueResult = array ();
 
+		foreach ($query->result_array() as $userResult) {
 			// get al technique result info in the first table
-			$techniqueResult = $query->row_array();
+			$techniqueResult = $userResult;
 
 			// Get tables info
 			$techniqueResultTables = $this->getTablesResultTechniqueView();
@@ -74,7 +85,7 @@ class Project_page_model extends CI_Model
 			// lopp through the tables
 			foreach ($techniqueResultTables as $key => $value) {
 
-				$tempResultQuery = $this->db->select($value)->from($key)->where('idTechniqueResult', $id)->get();
+				$tempResultQuery = $this->db->select($value)->from($key)->where('idTechniqueResult', $userResult['id'])->get();
 
 				$count = 0;
 				foreach ($tempResultQuery->result() as $row) {
@@ -82,25 +93,13 @@ class Project_page_model extends CI_Model
 				}
 			}
 
-			return $techniqueResult;
-		}
+			$modelView = $this->getModelView($techniqueResult);
 
-		else
-		{
-			return null;
-		}
-	}
-
-	function getAllProjects(){
-		$allUsersResults = $this->getAllUsersResults();
-
-		$data = array();
-
-		foreach ($allUsersResults as $user){
-			$data['info'][] = $this->buildTechniqueView($user['id']);
+			$data['info'][] = $modelView;
 		}
 
 		return $data;
+
 	}
 
 }
