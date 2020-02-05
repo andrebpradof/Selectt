@@ -87,7 +87,8 @@ class Form extends MY_Controller {
 
         	$sql = array( 	'title'         => $this->input->post("title", TRUE),
 	                        'insertedBy'    => $this->session->userdata("username"),
-	                        'insertedOn'    => date("Y-m-d H:i:s")
+	                        'insertedOn'    => date("Y-m-d H:i:s"),
+							'expiration'    => $this->input->post("expiration", TRUE)
                     );
 
 			$answer = $this->result->insertTechniqueResult($sql);

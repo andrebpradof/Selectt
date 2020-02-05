@@ -26,7 +26,7 @@
 </style>
 
 <div class="container animated fadeIn">
-  <h1>Insert Technique</h1>
+  <h1>Insert Project</h1>
   <h5>Please provide the information below.</h5>
   <br>
   
@@ -52,6 +52,18 @@
   </div>
   <br>
   <!-- END Title -->
+
+	<!-- INIT Title -->
+	<div class="form-group">
+
+		<!-- Title -->
+		<label for="title">Expiration Date</label>
+		<input type="date" class="form-control" id="expiration" name="expiration" aria-describedby="titleHelp" required focus>
+		<span class="text-danger"><?php echo form_error('expiration'); ?></span>
+
+	</div>
+	<br>
+	<!-- END Title -->
 
   
   <?php foreach($category as $fields): ?>
