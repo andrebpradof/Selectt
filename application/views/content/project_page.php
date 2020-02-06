@@ -29,7 +29,7 @@
 					<th>Project name</th>
 					<th>Inserted by</th>
 					<th>Inserted on</th>
-					<th>Quality attributes</th>
+					<th>Expiration Date</th>
 					<th>Actions</th>
 				</tr>
 				</thead>
@@ -41,14 +41,15 @@
 						<tr>
 							<td><?php echo $var['Title']; ?></td>
 							<td><?php echo $var['Inserted by']; ?></td>
-							<td><?php echo $var['Inserted on']; ?></td>
 							<td><?php
-								foreach ($var['Quality attribute'] as $aux){
-									if(sizeof($var['Quality attribute']) == array_search($aux,$var['Quality attribute']) + 1)
-										echo $aux;
-									else
-										echo $aux.", ";
-								}
+
+								$date = new DateTime($var['Inserted on']);
+								echo $date->format('d/m/Y');
+
+							?></td>
+							<td><?php
+								$date = new DateTime($var['Expiration']);
+								echo $date->format('d/m/Y');
 							?></td>
 							<td>
 								<!-- View button -->
@@ -91,16 +92,20 @@
 								<div class="form-group">
 									<label><?= $key; ?>:</label>
 									<p><?
-										if(is_array($item)) {
-											foreach ($item as $aux) {
-												if (sizeof($item) == array_search($aux, $item) + 1)
-													echo $aux;
-												else
-													echo $aux . ", ";
-											}
+										if($key == "Inserted on" || $key == "Expiration"){
+											$date = new DateTime($var[$key]);
+											echo $date->format('d/m/Y');
+										}else {
+											if (is_array($item)) {
+												foreach ($item as $aux) {
+													if (sizeof($item) == array_search($aux, $item) + 1)
+														echo $aux;
+													else
+														echo $aux . ", ";
+												}
+											} else
+												echo $item;
 										}
-										else
-											echo $item;
 									?></p>
 								</div>
 							</div>

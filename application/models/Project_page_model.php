@@ -40,6 +40,7 @@ class Project_page_model extends CI_Model
 			"Title"						=> $vector['title'],
 			"Inserted by"				=> $vector['insertedBy'],
 			"Inserted on"				=> $vector['insertedOn'],
+			"Expiration"				=> $vector['expiration'],
 			"Execution platform"         => $vector['executionPlatform'],
 			"Objective"                 => $vector['objective'],
 			"Programming language"       => $vector['programmingLanguage'],
