@@ -161,7 +161,7 @@
         <!-- <?= $field['atribute']; ?> -->
         <div class="col-lg-9 col-md-8 cold-sm-12 cold-xs-12">
           <div class="form-group <?= $field['html_id']; ?>">
-            <label for="<?= $field['html_id']; ?>"><?= $field['html_label']; ?> ?</label>    
+            <label for="<?= $field['html_id']; ?>"><?= $field['html_label']; ?></label>
 
             <input type="text" class="form-control typeahead" id="<?= $field['html_id']; ?>" name="<?= $field['html_name']; ?>" rows="<?= $field['html_row_count']; ?>" data-role="tagsinput"></input>
 

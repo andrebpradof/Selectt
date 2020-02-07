@@ -15,6 +15,7 @@ class Admin extends MY_Controller {
         $this->load->model('Utilidades_model', 'utility');
         $this->load->model('Technique_model', 'technique');
         $this->load->model('User_model', 'user');
+        $this->load->model('Result_model', 'userResult');
  	}
  
 	public function index()
@@ -34,6 +35,11 @@ class Admin extends MY_Controller {
         $data = $this->technique->getAllTechniques();
         $this->load->view('admin/admin_page_techniques', $data);
     }
+
+	public function projects(){
+		$data = $this->userResult->getAllUsersResults();
+		$this->load->view('admin/admin_page_projects',$data);
+	}
 
     public function weights () {
         $data = $this->utility->getFields();
@@ -220,9 +226,146 @@ class Admin extends MY_Controller {
 
     }
 
+	// *********************************************************************************************************
+	// ******************************************       USER RESULT        ***************************************
+	// *********************************************************************************************************
+	// USER RESULTS admin functions
+	public function deleteUserResult ($id) {
+		$this->userResult->deleteUserResult($id);
+		redirect(base_url('admin/projects'));
+	}
+
+	public function editUserResult ($id) {
+		$data['userResult'] = $this->userResult->buildTechniqueResult($id);
+
+		if (is_null($data['userResult'])) {
+			redirect ('admin/projects');
+		}
+
+		// $data['category'][0] = $this->utility->getFieldsCategory('Study identification');
+		$data['category'][0] = $this->utility->getFieldsCategory('Programming model');
+		$data['category'][1] = $this->utility->getFieldsCategory('General testing characteristics');
+		$data['category'][2] = $this->utility->getFieldsCategory('Concurrent testing characteristics');
+		$data['category'][3] = $this->utility->getFieldsCategory('Testing tool support');
+
+		$data['name'][0] = 'Study identification';
+		$data['name'][1] = 'Programming model';
+		$data['name'][2] = 'General testing characteristics';
+		$data['name'][3] = 'Concurrent testing characteristics';
+		$data['name'][4] = 'Testing tool support';
 
 
+		$count = 0;
+		foreach($data['category'] as $fields) {
+			$count2 = 0;
+			foreach($fields as $field) {
+				$data['category'][$count][$count2]['typeheadJS'] = $this->technique->singleTableInfo (ucfirst($field['html_id']));
 
+				$tempExample = $this->technique->singleTableInfo (ucfirst($field['html_id']));
+				$countExample = 0;
+				$example = "";
+
+				foreach ($tempExample as $value) {
+					if (strcasecmp($value, "No Information") != 0 && strcasecmp($value, "Not informed") != 0) {
+						$example .= ucfirst($value) . ', ';
+						if ($countExample++ >= 3) break;
+					}
+				}
+				$data['category'][$count][$count2]['example']=rtrim($example,", ");
+
+				$count2++;
+				// echo "<pre>";
+				// print_r($field['typeheadJS']);
+				// echo "</pre>";
+			}
+			$count++;
+		}
+		// echo "<pre>";
+		// print_r($data);
+		// echo "</pre>";
+
+		$this->load->view('admin/edit_projects_admin_page', $data);
+	}
+
+	public function updateUserResult ($targetID) {
+		// remove se escolher no info !!!
+		// verificar form no redirect !!
+		// problem validating form, next release will fix
+
+		//set validation rules
+		$this->form_validation->set_rules('title','Technique Title','trim|required|min_length[3]|max_length[255]',
+			array (     'required'      => 'You must provide a %s.',
+				'min_length'    => 'Your %s must have at least 3 characteres.',
+				'max_length'    => 'Your %s can have up to 255 characteres.'
+			)
+		);
+
+		// Helper to get all table names
+		$fields = $this->utility->getFields();
+
+		// validate all other forms
+		foreach ($fields['fields'] as $field) {
+			$this->form_validation->set_rules( $field['html_id'], $field['html_label'], 'trim|max_length[255]',
+				array (  'max_length'    => 'Your %s can have up to 255 characteres.'
+				)
+			);
+		}
+
+		//validate form input
+		if ($this->form_validation->run() == FALSE) {
+			// fails
+			$this->editUserResult($targetID);
+
+		} else {
+			$sql = array(
+				'title'         => $this->input->post("title", TRUE),
+				'expiration'    => $this->input->post("title", TRUE)
+			);
+
+			$answer = $this->userResult->updateUserResult($sql, $targetID);
+
+			// inserted
+			if ($answer === TRUE) {
+				$this->session->set_flashdata('msg','<div class="alert alert-success text-center">You successfully updated <strong>' . $sql['title'] . '</strong> project.</div>');
+
+				foreach ($fields['fields'] as $field) {
+					$this->userResult->deleteAllUserResultsAtributes (ucfirst($field['html_id']), $targetID);
+
+					if ($this->input->post("check" . $field['html_id'], TRUE) == 1 ||  $this->input->post($field['html_id'], TRUE) == "") {
+
+						$sql = array( 'idTechniqueResult' => $targetID, $field['html_id'] => 'No Information' );
+						$this->userResult->insertTechniqueResultAtributes (ucfirst($field['html_id']), $sql);
+						// echo $this->db->last_query() . ";<br>";
+
+					} else {
+						$temp = explode(",", $this->input->post($field['html_id'], TRUE));
+
+						foreach ($temp as $value) {
+							$sql = array( 'idTechniqueResult' => $targetID, $field['html_id'] => trim($value) );
+
+							$this->userResult->insertTechniqueResultAtributes (ucfirst($field['html_id']), $sql);
+							// echo $this->db->last_query() . ";<br>";
+						}
+					}
+				}
+
+
+				redirect(base_url('insert_test'));
+
+				redirect(base_url('admin/projects'));
+
+			} else {
+				$this->session->set_flashdata('msg','<div class="alert alert-danger text-center">Something went wrong with the database, please try again later.<br><strong>' . $answer . '</strong></div>');
+
+				redirect(base_url('admin/projects'));
+			}
+
+			$this->session->set_flashdata('msg','<div class="alert alert-warning text-center">Unknown behavior, contact the administrator !</div>');
+
+			redirect(base_url('admin/projects'));
+		}
+
+	}
 
 
     // *********************************************************************************************************

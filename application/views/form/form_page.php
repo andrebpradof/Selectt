@@ -53,17 +53,17 @@
   <br>
   <!-- END Title -->
 
-	<!-- INIT Title -->
+	<!-- INIT Expiration -->
 	<div class="form-group">
 
-		<!-- Title -->
+		<!-- Expiration -->
 		<label for="title">Expiration Date</label>
 		<input type="date" class="form-control" id="expiration" name="expiration" aria-describedby="titleHelp" required focus>
 		<span class="text-danger"><?php echo form_error('expiration'); ?></span>
 
 	</div>
 	<br>
-	<!-- END Title -->
+	<!-- END Expiration -->
 
   
   <?php foreach($category as $fields): ?>

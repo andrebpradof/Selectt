@@ -25,6 +25,13 @@
                 </a>
             </li>
 
+			<!-- Projects Edit -->
+			<li <?php if($this->uri->segment(2)=="projects"){ echo 'class="current"';}?> >
+				<a href="<?= base_url('admin/projects'); ?>">
+					<i class="glyphicon glyphicon-file"></i>Projects
+				</a>
+			</li>
+
             <!-- Users Edit -->
             <li <?php if($this->uri->segment(2)=="users"){ echo 'class="current"';}?> >
                 <a href="<?= base_url('admin/users'); ?>">

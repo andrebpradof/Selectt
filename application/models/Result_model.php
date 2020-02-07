@@ -19,15 +19,27 @@ class Result_model extends CI_Model
 
       foreach ($query->result() as $row) {    
         $list[$count++] = array ( 
-          'id'             => $row->id,
-          'title'          => $row->title,
-          'insertedBy'     => $row->insertedBy,
-          'insertedOn'     => $row->insertedOn
+		  	'id'             => $row->id,
+		  	'title'          => $row->title,
+			'insertedBy'     => $row->insertedBy,
+			'insertedOn'     => $row->insertedOn,
+			'expiration'	 => $row->expiration
         );
       } 
 
       return $list;
     }
+
+	// delete user result, only on admin page
+	function deleteUserResult ($id)
+	{
+		$this->db->delete('resulttechnique', array('id' =>  $id));
+	}
+
+	function deleteAllUserResultsAtributes ($tableName, $id)
+	{
+		$this->db->delete($tableName, array('idTechniqueResult' =>  $id));
+	}
 
     // CHECK IF RUN EXISTS
     function checkIfExistResult ($idResult)
@@ -41,6 +53,24 @@ class Result_model extends CI_Model
        return 0;
       }  
     }
+
+	function updateUserResult($data, $id)
+	{
+		$this->db->where('id', $id)->update('resulttechnique', $data);
+
+		if ($this->db->affected_rows() != 1) {
+			$error = $this->db->error();
+
+			if ($error['code'] == 1062) {
+				return "Sorry but this technique is already in database!";
+			} else {
+				return "Unknown error, please contact the administrator !";
+			}
+
+		} else {
+			return TRUE;
+		}
+	}
 
     // INSERT all info into technique result table
     function insertTechniqueResult ($data) 
@@ -156,31 +186,16 @@ class Result_model extends CI_Model
 		$count = 0;
 
 		foreach ($query->result() as $row) {
-			$list[$count++] = array(
+			$list['info'][$count++] = array(
 				'id' => $row->id,
 				'title' => $row->title,
 				'insertedBy' => $row->insertedBy,
-				'insertedOn' => $row->insertedOn
+				'insertedOn' => $row->insertedOn,
+				'expiration' => $row->expiration
 			);
 		}
 
 		return $list;
-	}
-
-	function buildTechniqueView(){
-
-	}
-
-    function getAllProjects(){
-		$allUsersResults = $this->getAllUsersResults();
-
-		$data = array();
-
-		foreach ($allUsersResults as $user){
-			$data['info'][] = $this->buildTechniqueResult($user['id']);
-		}
-
-		return $data;
 	}
 }
 ?>

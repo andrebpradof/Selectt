@@ -23,6 +23,7 @@ class Api extends REST_Controller{
 
         $this->load->model('Technique_model', 'technique');
         $this->load->model('User_model', 'user');
+        $this->load->model('Result_model', 'userResult');
     }
 
 
@@ -100,6 +101,28 @@ class Api extends REST_Controller{
         }
     }
 
+	// *********************************************************************************************************
+	// ******************************************       USER RESULT        ********************************************
+	// *********************************************************************************************************
+	function userResult_get()
+	{
+		if(!$this->get('id'))
+		{
+			$this->response('You must provide an ID to get technique info', 400);
+		}
+
+		$userResult = $this->userResult->buildTechniqueResult($this->get('id'));
+
+		if($userResult)
+		{
+			$this->response($userResult, 200); // 200 being the HTTP response code
+		}
+
+		else
+		{
+			$this->response('Technique not found on database', 404);
+		}
+	}
 
 
     // *********************************************************************************************************

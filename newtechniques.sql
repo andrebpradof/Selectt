@@ -843,7 +843,7 @@ INSERT INTO `dbo`.  `Instrumentation` (`idTechnique`,   `instrumentation` ) VALU
 
 INSERT INTO `dbo`.  `StateSpaceReduction` (`idTechnique`,   `stateSpaceReduction` ) VALUES (  @var_id ,'No Information');
 
-INSERT INTO `dbo`.  `ConcurrentBugs`  (`idTechnique`,   `concurrentBugs`  ) VALUES (  @var_id ,'Atomicity-violation, Bug-triggering interleavings');
+INSERT INTO `dbo`.  `ConcurrentBugs`  (`idTechnique`,   `concurrentBugs`  ) VALUES (  @var_id ,'Atomicity violation, Bug-triggering interleavings');
 
 INSERT INTO `dbo`.  `ToolName`  (`idTechnique`,   `toolName`  ) VALUES (  @var_id ,'AVPredictor');
 
