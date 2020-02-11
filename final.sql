@@ -5409,18 +5409,6 @@ INSERT INTO `dbo`.`Technique` (`id`, `title`, `year`, `bibTex`, `link`, `needApp
     INSERT INTO `dbo`.  `PlatformTool`  (`idTechnique`,   `platformTool`  ) VALUES (  128 ,'Windows');
 
 
-
-
-
-
-
-
-
-
-
-
-
-
    -- -----------------------------------------------------
     -- Table `dbo`.`ResultTechnique`
     -- -----------------------------------------------------
@@ -5837,6 +5825,36 @@ INSERT INTO `dbo`.`Technique` (`id`, `title`, `year`, `bibTex`, `link`, `needApp
         REFERENCES `dbo`.`ResultTechnique` (`id`)
         ON DELETE CASCADE
         ON UPDATE CASCADE)
+    ENGINE = InnoDB;
+
+    -- -----------------------------------------------------
+    -- Table `dbo`.`ResultFeedbaack`
+    -- -----------------------------------------------------
+    DROP TABLE IF EXISTS `dbo`.`ResultFeedbaack`;
+
+    CREATE TABLE IF NOT EXISTS `dbo`.`ResultFeedbaack` (
+      `id` INT NOT NULL AUTO_INCREMENT,
+      `idTechniqueResult` INT NOT NULL,
+      `idTechnique` INT NOT NULL,
+      `strengths` VARCHAR(255),
+      `weaknesses` VARCHAR (255),
+      `difficulties` VARCHAR (255),
+      `satisfaction` VARCHAR (255),
+      PRIMARY KEY (`id`),
+      UNIQUE INDEX `id_UNIQUE` (`id` ASC),
+      INDEX `idTechniqueResult_idx` (`idTechniqueResult` ASC),
+      INDEX `idTechnique_idx` (`idTechnique` ASC),
+      CONSTRAINT `idTechniqueResult_22`
+        FOREIGN KEY (`idTechniqueResult`)
+        REFERENCES `dbo`.`ResultTechnique` (`id`)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE,
+      CONSTRAINT `idTechnique_22`
+        FOREIGN KEY (`idTechnique`)
+        REFERENCES `dbo`.`ResultTechnique` (`id`)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE
+        )
     ENGINE = InnoDB;
 
 

@@ -174,16 +174,21 @@
 		<?php foreach ($result[$i]['technique'] as $technique) : ?>
 
 			<div class="groupBug <?= ($bugPagination >= 5) ? "hidden-panel panel-bug" : "" ?>" align="center;">
+
+				<div class="form <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="float: left; width: 5%; height: 122px">
+					<input type="checkbox" class="form-control" id="<?= $technique['id']?>" name="<?= $technique['id'] ?>" style="margin-top: 45px">
+				</div>
+
 				<? $resultWeight = $technique['result_weight'] * 100; ?>
 
 				<? if ($resultWeight > 75.00) : ?>
-					<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%; float: left;" >
+					<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%; float: left;" >
 				<? elseif ($resultWeight > 50.00) : ?>
-					<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
+					<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
 				<? elseif ($resultWeight > 25.00) : ?>
-					<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
+					<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
 				<? else : ?>
-					<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 75%;float: left;" >
+					<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
 					<? endif; ?>
 
 					<div id-panel="<?=$idPanel;?>" class="clickable panel-heading panel-collapsed" >
@@ -316,6 +321,10 @@
 	<? endfor; ?>
 
 	<button id="showAllBugs" style="margin-top: 50px; border: 1px solid #8c8b8b; background-color: green" class="btn btn-block btn-primary btn-view-bugs">View all Concurrent Bugs</button>
+	<hr>
+
+	<!-- Submit Form -->
+	<button type="submit" class="btn btn-block btn-info"> Give Feedback</button>
 </div>
 
 <? endif; ?>
