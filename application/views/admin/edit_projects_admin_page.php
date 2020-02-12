@@ -62,19 +62,17 @@
 		<br>
 		<!-- END Title -->
 
-		<!-- INIT expiration -->
+		<!-- INIT Expiration -->
 		<div class="form-group">
 
-			<!-- expiration -->
+			<!-- Expiration -->
 			<label for="title">Expiration Date</label>
-			<input type="text" class="form-control" id="expiration" name="expiration" aria-describedby="titleHelp" required focus>
-
-			<small style="font-weight: 900;">* Required</small>
+			<input type="date" class="form-control" id="expiration" name="expiration" aria-describedby="titleHelp" required focus>
 			<span class="text-danger"><?php echo form_error('expiration'); ?></span>
 
 		</div>
 		<br>
-		<!-- END expiration -->
+		<!-- END Expiration -->
 
 
 

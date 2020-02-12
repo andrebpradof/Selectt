@@ -98,10 +98,160 @@
 	.hidden-panel{
 		display: none;
 	}
+
+	.groupBug {
+		width: 100%;
+		float: left;
+	}
+
+	.technique{
+		width: 100%;
+		display: flex;
+		position: relative;
+	}
+	/* The container */
+	.container-checkbox {
+		display: block;
+		position: relative;
+		padding-left: 35px;
+		margin-bottom: 12px;
+		cursor: pointer;
+		font-size: 22px;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	/* Hide the browser's default checkbox */
+	.container-checkbox input {
+		position: absolute;
+		opacity: 0;
+		cursor: pointer;
+	}
+
+	/* Create a custom checkbox */
+	.container-checkbox .checkmark {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 25px;
+		width: 25px;
+		background-color: #eee;
+		border-radius: 4px;
+	}
+
+	/* On mouse-over, add a grey background color */
+	.container-checkbox:hover input ~ .checkmark {
+		background-color: #ccc;
+	}
+
+	/* When the checkbox is checked, add a blue background */
+	.container-checkbox input:checked ~ .checkmark {
+		background-color: #2196F3;
+	}
+
+	/* Create the checkmark/indicator (hidden when not checked) */
+	.container-checkbox .checkmark:after {
+		content: "";
+		position: absolute;
+		display: none;
+	}
+
+	/* Show the checkmark when checked */
+	.container-checkbox input:checked ~ .checkmark:after {
+		display: block;
+	}
+
+	/* Style the checkmark/indicator */
+	.container-checkbox .checkmark:after {
+		left: 8px;
+		top: 5px;
+		width: 8px;
+		height: 13px;
+		border: solid white;
+		border-width: 0 3px 3px 0;
+		-webkit-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		transform: rotate(45deg);
+	}
+
+
+	/* The container */
+	.container-radio {
+		display: block;
+		position: relative;
+		padding-left: 35px;
+		margin-bottom: 12px;
+		cursor: pointer;
+		font-size: 22px;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	/* Hide the browser's default radio button */
+	.container-radio input {
+		position: absolute;
+		opacity: 0;
+		cursor: pointer;
+	}
+
+	/* Create a custom radio button */
+	.container-radio .checkmark {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 25px;
+		width: 25px;
+		background-color: #eee;
+		border-radius: 50%;
+	}
+
+	/* On mouse-over, add a grey background color */
+	.container-radio:hover input ~ .checkmark {
+		background-color: #ccc;
+	}
+
+	/* When the radio button is checked, add a blue background */
+	.container-radio input:checked ~ .checkmark {
+		background-color: #2196F3;
+	}
+
+	/* Create the indicator (the dot/circle - hidden when not checked) */
+	.container-radio .checkmark:after {
+		content: "";
+		position: absolute;
+		display: none;
+	}
+
+	/* Show the indicator (dot/circle) when checked */
+	.container-radio input:checked ~ .checkmark:after {
+		display: block;
+	}
+
+	/* Style the indicator (dot/circle) */
+	.container-radio .checkmark:after {
+		top: 9px;
+		left: 9px;
+		width: 8px;
+		height: 8px;
+		border-radius: 50%;
+		background: white;
+	}
+	.box-checkbox {
+		height: 26px;
+		width: 26px;
+		margin-top: 50%;
+		position: relative;
+		padding: 20px 0;
+	}
 </style>
 
 
-<? if (isset($info) && isset($result)) : ?>
+<? if (isset($info) && isset($result) && isset($alltechniques)) : ?>
+
 <div class="container animated fadeIn">
 
 	<h1>Results Page</h1>
@@ -174,82 +324,90 @@
 		<?php foreach ($result[$i]['technique'] as $technique) : ?>
 
 			<div class="groupBug <?= ($bugPagination >= 5) ? "hidden-panel panel-bug" : "" ?>" align="center;">
+				<div class="technique">
 
-				<div class="form <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="float: left; width: 5%; height: 122px">
-					<input type="checkbox" class="form-control" id="<?= $technique['id']?>" name="<?= $technique['id'] ?>" style="margin-top: 45px">
-				</div>
+					<!-- inicio -->
 
-				<? $resultWeight = $technique['result_weight'] * 100; ?>
-
-				<? if ($resultWeight > 75.00) : ?>
-					<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%; float: left;" >
-				<? elseif ($resultWeight > 50.00) : ?>
-					<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
-				<? elseif ($resultWeight > 25.00) : ?>
-					<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
-				<? else : ?>
-					<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
-					<? endif; ?>
-
-					<div id-panel="<?=$idPanel;?>" class="clickable panel-heading panel-collapsed" >
-						<h3 class="panel-title">
-							<span style="font-size: 16pt;">
-							<?= $technique['testingTechnique'][0]['baseValue']; ?> -
-							<?= $technique['testDataGeneration'][0]['baseValue']; ?>
-							</span>
-							<span class="pull-right">
-								<strong>MATCH: </strong><?= $resultWeight; ?>%
-								<i class="glyphicon glyphicon-plus"></i>
-							</span>
-							<br>
-								<a href="http://<?= $technique['link']; ?>" target="_blank" ><?= $technique['link']; ?></a>
-							</h3>
-							<br>
-
-
-							<div class="progress">
-								<div class="bar bar-success progress-bar progress-bar-success" role="progressbar" style="width: <?= $technique['Programming model']*100; ?>%" aria-valuemax="12.53">
-									<?= $technique['Programming model']*100; ?>%
-								</div>
-
-								<div class="bar bar-info progress-bar progress-bar-info" role="progressbar" style="width: <?= $technique['General testing characteristics']*100; ?>%" aria-valuemax="48.72">
-									<?= $technique['General testing characteristics']*100; ?>%
-								</div>
-
-								<div class="bar bar-warning progress-bar progress-bar-warning" role="progressbar" style="width: <?= $technique['Concurrent testing characteristics']*100; ?>%" aria-valuemax="32.04">
-									<?= $technique['Concurrent testing characteristics']*100; ?>%
-								</div>
-								<div class="bar bar-danger progress-bar progress-bar-danger" role="progressbar" style="width: <?= $technique['Testing tool support']*100; ?>%" aria-valuemax="6.7">
-									<?= $technique['Testing tool support']*100; ?>%
-								</div>
-							</div>
-
+					<div class=" <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="float: left; width: 5%; height: 122px;position: relative">
+						<div class="box-checkbox">
+							<label class="container-checkbox">
+								<input type="checkbox" value="<?= $technique['id']?>" id="checkbox<?= $technique['id']?>" name="checkboxtechnique">
+								<span class="checkmark"></span>
+							</label>
 						</div>
-
-						<?
-							unset($technique['Programming model']);
-							unset($technique['General testing characteristics']);
-							unset($technique['Concurrent testing characteristics']);
-							unset($technique['Testing tool support']);
-							unset($technique['link']);
-						?>
 					</div>
 
-						<? if ($resultWeight > 75.00) : ?>
-							<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;" >
-						<? elseif ($resultWeight > 50.00) : ?>
-							<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
-						<? elseif ($resultWeight > 25.00) : ?>
-							<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
-						<? else : ?>
-							<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+					<? $resultWeight = $technique['result_weight'] * 100; ?>
+
+					<? if ($resultWeight > 75.00) : ?>
+						<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%; float: left;" >
+					<? elseif ($resultWeight > 50.00) : ?>
+						<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
+					<? elseif ($resultWeight > 25.00) : ?>
+						<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
+					<? else : ?>
+						<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 70%;float: left;" >
 						<? endif; ?>
 
-								<div class="panel-heading" style="height: 121px;width: 100%; display: table; position: relative;">
-									<h3 style="margin: 0; display: table-cell; vertical-align: middle; text-align: center;"><?= ucfirst($technique['testingLevel'][0]['baseValue']); ?> testing</h3>
+						<div id-panel="<?=$idPanel;?>" class="clickable panel-heading panel-collapsed" >
+							<h3 class="panel-title">
+								<span style="font-size: 16pt;">
+								<?= $technique['testingTechnique'][0]['baseValue']; ?> -
+								<?= $technique['testDataGeneration'][0]['baseValue']; ?>
+								</span>
+								<span class="pull-right">
+									<strong>MATCH: </strong><?= $resultWeight; ?>%
+									<i class="glyphicon glyphicon-plus"></i>
+								</span>
+								<br>
+									<a href="http://<?= $technique['link']; ?>" target="_blank" ><?= $technique['link']; ?></a>
+								</h3>
+								<br>
+
+
+								<div class="progress">
+									<div class="bar bar-success progress-bar progress-bar-success" role="progressbar" style="width: <?= $technique['Programming model']*100; ?>%" aria-valuemax="12.53">
+										<?= $technique['Programming model']*100; ?>%
+									</div>
+
+									<div class="bar bar-info progress-bar progress-bar-info" role="progressbar" style="width: <?= $technique['General testing characteristics']*100; ?>%" aria-valuemax="48.72">
+										<?= $technique['General testing characteristics']*100; ?>%
+									</div>
+
+									<div class="bar bar-warning progress-bar progress-bar-warning" role="progressbar" style="width: <?= $technique['Concurrent testing characteristics']*100; ?>%" aria-valuemax="32.04">
+										<?= $technique['Concurrent testing characteristics']*100; ?>%
+									</div>
+									<div class="bar bar-danger progress-bar progress-bar-danger" role="progressbar" style="width: <?= $technique['Testing tool support']*100; ?>%" aria-valuemax="6.7">
+										<?= $technique['Testing tool support']*100; ?>%
+									</div>
 								</div>
+
+							</div>
+
+							<?
+								unset($technique['Programming model']);
+								unset($technique['General testing characteristics']);
+								unset($technique['Concurrent testing characteristics']);
+								unset($technique['Testing tool support']);
+								unset($technique['link']);
+							?>
 						</div>
 
+							<? if ($resultWeight > 75.00) : ?>
+								<div class="panel panel-success <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%; display: flex;" >
+							<? elseif ($resultWeight > 50.00) : ?>
+								<div class="panel panel-info <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+							<? elseif ($resultWeight > 25.00) : ?>
+								<div class="panel panel-warning <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+							<? else : ?>
+								<div class="panel panel-danger <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="width: 24%; float: right; margin-left: 1%;">
+							<? endif; ?>
+
+									<div class="panel-heading" style="height: 100%; width: 100%; display: table;">
+										<h3 style="margin: 0; display: table-cell; vertical-align: middle; text-align: center; height: auto;"><?= ucfirst($technique['testingLevel'][0]['baseValue']); ?> testing</h3>
+									</div>
+							</div>
+						</div>
 						<!-- DIV Detalhes -->
 						<div class="panel panel-details" id="panel<?=$idPanel;?>" style="display: none; width: 100%;" align="center" >
 							<div class="panel-body" align="center" style="width: 100%;">
@@ -324,10 +482,43 @@
 	<hr>
 
 	<!-- Submit Form -->
-	<button type="submit" class="btn btn-block btn-info"> Give Feedback</button>
-</div>
+	<form action="" method="POST" >
+		<input type="hidden" name="idTechniques" value="" id="idTechniques">
+	</form>
+	<button class="btn btn-block btn-info btn-model" id="button" > Give Feedback</button>
 
+</div>
 <? endif; ?>
+
+<!-- Modal -->
+<div class="modal fade in" data-backdrop="static" id="myInfo" data-keyboard="true" tabindex="-1" role="dialog" aria-hidden="true">
+
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h2 class="modal-title"> Information</h2>
+
+				<button type="button" class="close" aria-label="Close" data-dismiss="modal">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+
+			<!-- Modal Content  -->
+			<div class="modal-body">
+				<div class="row">
+				</div>
+			</div>
+
+			<!-- Close view information -->
+			<div class="modal-footer">
+				<button type="button" class="btn btn-block btn-danger" data-dismiss="modal">Close</button>
+			</div>
+			<!-- End modal contet -->
+		</div>
+		<!-- End modal dialog -->
+	</div>
+	<!-- End modal -->
+</div>
 
 
 <!-- START OF FOOTER -->
@@ -366,14 +557,37 @@
 		//$('.panel div.clickable').click();
 	});
 	$(document).on('click', '.btn-view-details',function (e) {
+		e.preventDefault();
 	    var idpagination = $(this).attr("id-pagination");
 	    $(".panel-view-"+idpagination).fadeIn(100);
 		$(this).fadeOut(100);
     })
     $(document).on('click', '.btn-view-bugs',function (e) {
+		e.preventDefault();
         $(".panel-bug").css("display", "block");
         $(this).fadeOut(100);
     })
+
+	$(document).on('click', '.btn-model',function (e) {
+		e.preventDefault();
+		console.log("hello");
+		$("#myInfo").modal('show');
+
+		// var checkbox = $('input:checkbox[name^=checkboxtechnique]:checked');
+		// //verifica se existem checkbox selecionados
+		// if(checkbox.length > 0){
+		// 	//array para armazenar os valores
+		// 	var val = [];
+		// 	//função each para pegar os selecionados
+		// 	checkbox.each(function(){
+		// 		val.push($(this).val());
+		// 		idTech = idTech+""
+		// 	});
+		// 	//exibe no console o array com os valores selecionados
+		//
+		// 	idTech = "";
+		}
+	})
 </script>
 
 </body>

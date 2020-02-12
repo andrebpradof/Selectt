@@ -38,7 +38,7 @@ class Admin extends MY_Controller {
 
 	public function projects(){
 		$data = $this->userResult->getAllUsersResults();
-		$this->load->view('admin/admin_page_projects',$data);
+		$this->load->view('admin/admin_page_project',$data);
 	}
 
     public function weights () {
@@ -319,7 +319,7 @@ class Admin extends MY_Controller {
 		} else {
 			$sql = array(
 				'title'         => $this->input->post("title", TRUE),
-				'expiration'    => $this->input->post("title", TRUE)
+				'expiration'    => $this->input->post("expiration", TRUE)
 			);
 
 			$answer = $this->userResult->updateUserResult($sql, $targetID);
