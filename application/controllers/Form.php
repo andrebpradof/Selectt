@@ -133,6 +133,42 @@ class Form extends MY_Controller {
         }
     }
 
+    public function getSelectedTechniques(){
+ 		$techniques = array();
+		$this->form_validation->run();
+      	$selected = $this->input->post("checkboxvar", TRUE);
+      	foreach ($selected as $id){
+      		$techniques[] = $this->technique->getTechniqueTable($id);
+		}
+
+      	$data['techniques'] = $techniques;
+
+      	$this->load->view('form/feedback_page',$data);
+	}
+
+	public function getFeedback(){
+ 		$techniques = $_SESSION['techniques'];
+ 		$result_id = $_SESSION['result_user'];
+ 		$sql = array();
+ 		$cont = 0;
+
+		$this->form_validation->run();
+
+ 		foreach ($techniques as $technique){
+			$sql[$cont]['idTechniqueResult'] = $result_id;
+			$sql[$cont]['idTechnique'] = $technique['id'];
+			$sql[$cont]['strengths'] = $this->input->post("strengths".$technique['id'], TRUE);
+			$sql[$cont]['weaknesses'] = $this->input->post("weaknesses".$technique['id'], TRUE);
+			$sql[$cont]['difficulties'] = $this->input->post("difficulties".$technique['id'], TRUE);
+			$sql[$cont]['satisfaction'] = $this->input->post("satisfaction".$technique['id'], TRUE);
+			$this->result->insertTechniqueResultAtributes("ResultFeedback",$sql[$cont]);
+			$cont++;
+		}
+
+		redirect(base_url('content/project'));
+	}
+
+
 
 }
 

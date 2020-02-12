@@ -29,6 +29,27 @@ class Technique_model extends CI_Model
       return $data;  
     }
 
+    function getTechniqueTable($id){
+		$technique = null;
+		$query = null;
+
+		$query = $this->db->select('*')->from('Technique')->where('id', $id)->limit(1)->get();
+
+		if ($query->num_rows() === 1)
+		{
+			// initialize the array with all the info
+			$technique = array ();
+
+			// get al technique info in the first table
+			$technique = $query->row_array();
+
+			return $technique;
+		}
+		else{
+			return null;
+		}
+	}
+
     // delete technique, only on admin page
     function deleteTechnique ($id) 
     {

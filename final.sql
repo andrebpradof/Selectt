@@ -5828,14 +5828,15 @@ INSERT INTO `dbo`.`Technique` (`id`, `title`, `year`, `bibTex`, `link`, `needApp
     ENGINE = InnoDB;
 
     -- -----------------------------------------------------
-    -- Table `dbo`.`ResultFeedbaack`
+    -- Table `dbo`.`ResultFeedback`
     -- -----------------------------------------------------
-    DROP TABLE IF EXISTS `dbo`.`ResultFeedbaack`;
+    DROP TABLE IF EXISTS `dbo`.`ResultFeedback`;
 
-    CREATE TABLE IF NOT EXISTS `dbo`.`ResultFeedbaack` (
+    CREATE TABLE IF NOT EXISTS `dbo`.`ResultFeedback` (
       `id` INT NOT NULL AUTO_INCREMENT,
       `idTechniqueResult` INT NOT NULL,
       `idTechnique` INT NOT NULL,
+      `titleTechnique` VARCHAR(255) NOT NULL,
       `strengths` VARCHAR(255),
       `weaknesses` VARCHAR (255),
       `difficulties` VARCHAR (255),
@@ -5851,7 +5852,7 @@ INSERT INTO `dbo`.`Technique` (`id`, `title`, `year`, `bibTex`, `link`, `needApp
         ON UPDATE CASCADE,
       CONSTRAINT `idTechnique_22`
         FOREIGN KEY (`idTechnique`)
-        REFERENCES `dbo`.`ResultTechnique` (`id`)
+        REFERENCES `dbo`.`Technique` (`id`)
         ON DELETE CASCADE
         ON UPDATE CASCADE
         )

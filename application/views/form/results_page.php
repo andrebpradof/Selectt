@@ -137,13 +137,13 @@
 		left: 0;
 		height: 25px;
 		width: 25px;
-		background-color: #eee;
+		background-color: #c0c0c0;
 		border-radius: 4px;
 	}
 
 	/* On mouse-over, add a grey background color */
 	.container-checkbox:hover input ~ .checkmark {
-		background-color: #ccc;
+		background-color: #8c8c8c;
 	}
 
 	/* When the checkbox is checked, add a blue background */
@@ -250,19 +250,19 @@
 </style>
 
 
-<? if (isset($info) && isset($result) && isset($alltechniques)) : ?>
+<? if (isset($info) && isset($result)) : ?>
 
 <div class="container animated fadeIn">
 
 	<h1>Results Page</h1>
 	<br>
 	<br>
+
 	<?
 		$ci =&get_instance();
 		$ci->load->model('Result_model', 'result');
 		$userResults = $ci->result->getUserResults($this->session->userdata("username"));
 	?>
-
 
 	<?	if (count($userResults) > 0) : ?>
 		<div class="panel panel-default" style="overflow-y: scroll; height: 200px">
@@ -283,6 +283,8 @@
 
 		<? unset($userResults); ?>
 	<? endif; ?>
+
+	<?php echo form_open(base_url('form/getSelectedTechniques'));?>
 
 	<hr>
 	<h3 align="center">Results from <?= $info['title']; ?></h3>
@@ -331,7 +333,7 @@
 					<div class=" <?= ($detailsPagination >= 5) ? "hidden-panel panel-view-".$bugPagination : "" ?>" style="float: left; width: 5%; height: 122px;position: relative">
 						<div class="box-checkbox">
 							<label class="container-checkbox">
-								<input type="checkbox" value="<?= $technique['id']?>" id="checkbox<?= $technique['id']?>" name="checkboxtechnique">
+								<input type="checkbox" class="form-control" value="<?= $technique['id']?>" id="checkbox<?= $technique['id']?>" name="checkboxvar[]">
 								<span class="checkmark"></span>
 							</label>
 						</div>
@@ -481,44 +483,11 @@
 	<button id="showAllBugs" style="margin-top: 50px; border: 1px solid #8c8b8b; background-color: green" class="btn btn-block btn-primary btn-view-bugs">View all Concurrent Bugs</button>
 	<hr>
 
-	<!-- Submit Form -->
-	<form action="" method="POST" >
-		<input type="hidden" name="idTechniques" value="" id="idTechniques">
-	</form>
-	<button class="btn btn-block btn-info btn-model" id="button" > Give Feedback</button>
+	<!--<input type="checkbox" hidden value="" id="userResultId" name="userResultId" checked> -->
+	<button type="submit" class="btn btn-block btn-info btn-model" id="button" > Give Feedback</button>
 
 </div>
 <? endif; ?>
-
-<!-- Modal -->
-<div class="modal fade in" data-backdrop="static" id="myInfo" data-keyboard="true" tabindex="-1" role="dialog" aria-hidden="true">
-
-	<div class="modal-dialog modal-lg" role="document">
-		<div class="modal-content">
-			<div class="modal-header">
-				<h2 class="modal-title"> Information</h2>
-
-				<button type="button" class="close" aria-label="Close" data-dismiss="modal">
-					<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-
-			<!-- Modal Content  -->
-			<div class="modal-body">
-				<div class="row">
-				</div>
-			</div>
-
-			<!-- Close view information -->
-			<div class="modal-footer">
-				<button type="button" class="btn btn-block btn-danger" data-dismiss="modal">Close</button>
-			</div>
-			<!-- End modal contet -->
-		</div>
-		<!-- End modal dialog -->
-	</div>
-	<!-- End modal -->
-</div>
 
 
 <!-- START OF FOOTER -->
@@ -552,42 +521,17 @@
 			$this.find('i').removeClass('glyphicon-plus').addClass('glyphicon-minus');
 		}
 	});
-	$(document).ready(function () {
-		//$('.panel-heading span.clickable').click();
-		//$('.panel div.clickable').click();
-	});
 	$(document).on('click', '.btn-view-details',function (e) {
 		e.preventDefault();
 	    var idpagination = $(this).attr("id-pagination");
 	    $(".panel-view-"+idpagination).fadeIn(100);
 		$(this).fadeOut(100);
-    })
+    });
     $(document).on('click', '.btn-view-bugs',function (e) {
 		e.preventDefault();
         $(".panel-bug").css("display", "block");
         $(this).fadeOut(100);
-    })
-
-	$(document).on('click', '.btn-model',function (e) {
-		e.preventDefault();
-		console.log("hello");
-		$("#myInfo").modal('show');
-
-		// var checkbox = $('input:checkbox[name^=checkboxtechnique]:checked');
-		// //verifica se existem checkbox selecionados
-		// if(checkbox.length > 0){
-		// 	//array para armazenar os valores
-		// 	var val = [];
-		// 	//função each para pegar os selecionados
-		// 	checkbox.each(function(){
-		// 		val.push($(this).val());
-		// 		idTech = idTech+""
-		// 	});
-		// 	//exibe no console o array com os valores selecionados
-		//
-		// 	idTech = "";
-		}
-	})
+    });
 </script>
 
 </body>
