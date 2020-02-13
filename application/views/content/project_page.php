@@ -85,7 +85,9 @@
 				<div class="modal-body">
 					<div class="row">
 						<?php foreach ($var as $key => $item): ?>
-							<? if ($key == "ID") { continue; } ?>
+							<? if ($key == "ID") {
+								continue;
+							} ?>
 							<? if ($key != "Feedback"){ ?>
 								<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
 									<!-- <?= $item; ?> -->
@@ -108,31 +110,34 @@
 											}
 										?></p>
 									</div>
-								<?php} else{
-								foreach ($item as $feedbackKey => $feedback){ ?>
+								<?php }
+								else{?>
+									<!-- Feedback -->
 									<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
-									<!-- <?= $item; ?> -->
-									<div class="form-group">
-										<label><?= $key; ?>:</label>
-										<p><?
-											if($key == "Inserted on" || $key == "Expiration"){
-												$date = new DateTime($var[$key]);
-												echo $date->format('d/m/Y');
-											}else {
-												if (is_array($item)) {
-													foreach ($item as $aux) {
-														if (sizeof($item) == array_search($aux, $item) + 1)
-															echo $aux;
-														else
-															echo $aux . ", ";
-													}
-												} else
-													echo $item;
-											}
-										?></p>
-									</div>
-								}
-							}?>
+										<hr>
+										<h3 style="font-weight: bold;">Feedback:</h3>
+										<br>
+									<?php foreach ($item as $feedback){ ?>
+										<h4 style="font-weight: bold;"><?= $feedback['Technique Title']; ?></h4>
+										<div class="form-group">
+											<label>Strengths:</label>
+											<p><?= $feedback['Strengths']; ?></p>
+										</div>
+										<div class="form-group">
+											<label>Weaknesses:</label>
+											<p><?= $feedback['Weaknesses'];?></p>
+										</div>
+										<div class="form-group">
+											<label>Difficulties:</label>
+											<p><?= $feedback['Difficulties'];?></p>
+										</div>
+										<div class="form-group">
+											<label>Satisfaction:</label>
+											<p><?= $feedback['Satisfaction'];?></p>
+										</div>
+										<br>
+									<?php }
+								}?>
 							</div>
 						<?php endforeach; ?>
 					</div>

@@ -137,6 +137,9 @@ class Form extends MY_Controller {
  		$techniques = array();
 		$this->form_validation->run();
       	$selected = $this->input->post("checkboxvar", TRUE);
+      	if($selected == null){
+			redirect(base_url('results'));
+		}
       	foreach ($selected as $id){
       		$techniques[] = $this->technique->getTechniqueTable($id);
 		}

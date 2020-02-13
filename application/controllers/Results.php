@@ -135,7 +135,6 @@ class Results extends MY_Controller { // Verificacao de login
 		$data['info'] 	= $resultTechnique;
 		$data['result'] = $bugsResult;
 		$data['allTechniques'] = $result;
-		//$data['userResultId'] = $id;
 
 		$this->load->view('form/results_page', $data);
 	}
