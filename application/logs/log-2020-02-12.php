@@ -22,3 +22,633 @@ ERROR - 2020-02-12 17:22:26 --> 404 Page Not Found: Kadmin/dash
 ERROR - 2020-02-12 17:24:51 --> 404 Page Not Found: Kadmin/dash
 ERROR - 2020-02-12 17:25:26 --> 404 Page Not Found: Kadmin/dash
 ERROR - 2020-02-12 17:25:46 --> 404 Page Not Found: Kadmin/dash
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 17:58:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:04:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:06:07 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:06:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:12:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:14:41 --> Severity: Notice --> Use of undefined constant c - assumed 'c' xdebug://debug-eval 1
+ERROR - 2020-02-12 18:16:54 --> Severity: Notice --> Undefined index: Strengths xdebug://debug-eval 1
+ERROR - 2020-02-12 18:18:16 --> Severity: Notice --> Undefined index: satisfaction xdebug://debug-eval 1
+ERROR - 2020-02-12 18:21:09 --> Severity: Notice --> Undefined index: feedback C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 65
+ERROR - 2020-02-12 18:21:09 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:21:09 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Undefined index: feedback C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 65
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 104
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 102
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:21:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:25:53 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: executionPlatform C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 44
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: objective C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 45
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: programmingLanguage C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 46
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: testingTechnique C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 47
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: testDataGeneration C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 48
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: testingLevel C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 49
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: synchronizationMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 50
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: input C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 51
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: output C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 52
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: qualityAttribute C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 53
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: typeOfStudy C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 54
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: testingAnalysis C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 55
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: concurrentParadigm C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 56
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: replayMechanism C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 57
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: programRepresentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 58
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: instrumentation C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 59
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: stateSpaceReduction C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 60
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: concurrentBugs C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 61
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: toolName C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 62
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: cost C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 63
+ERROR - 2020-02-12 18:27:39 --> Severity: Notice --> Undefined index: platformTool C:\xampp\htdocs\~selectt\application\models\Project_page_model.php 64
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 104
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 102
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:27:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 104
+ERROR - 2020-02-12 18:28:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 102
+ERROR - 2020-02-12 18:30:18 --> 404 Page Not Found: Admin/userResults
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 104
+ERROR - 2020-02-12 18:30:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 102
+ERROR - 2020-02-12 18:34:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 107
+ERROR - 2020-02-12 18:34:35 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 105
+ERROR - 2020-02-12 18:35:01 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:02 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:02 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91
+ERROR - 2020-02-12 18:35:15 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 91

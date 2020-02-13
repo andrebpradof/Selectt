@@ -157,6 +157,7 @@ class Form extends MY_Controller {
  		foreach ($techniques as $technique){
 			$sql[$cont]['idTechniqueResult'] = $result_id;
 			$sql[$cont]['idTechnique'] = $technique['id'];
+			$sql[$cont]['titleTechnique'] = $technique['title'];
 			$sql[$cont]['strengths'] = $this->input->post("strengths".$technique['id'], TRUE);
 			$sql[$cont]['weaknesses'] = $this->input->post("weaknesses".$technique['id'], TRUE);
 			$sql[$cont]['difficulties'] = $this->input->post("difficulties".$technique['id'], TRUE);

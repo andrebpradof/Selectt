@@ -86,28 +86,53 @@
 					<div class="row">
 						<?php foreach ($var as $key => $item): ?>
 							<? if ($key == "ID") { continue; } ?>
-
-							<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
-								<!-- <?= $item; ?> -->
-								<div class="form-group">
-									<label><?= $key; ?>:</label>
-									<p><?
-										if($key == "Inserted on" || $key == "Expiration"){
-											$date = new DateTime($var[$key]);
-											echo $date->format('d/m/Y');
-										}else {
-											if (is_array($item)) {
-												foreach ($item as $aux) {
-													if (sizeof($item) == array_search($aux, $item) + 1)
-														echo $aux;
-													else
-														echo $aux . ", ";
-												}
-											} else
-												echo $item;
-										}
-									?></p>
-								</div>
+							<? if ($key != "Feedback"){ ?>
+								<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
+									<!-- <?= $item; ?> -->
+									<div class="form-group">
+										<label><?= $key; ?>:</label>
+										<p><?
+											if($key == "Inserted on" || $key == "Expiration"){
+												$date = new DateTime($var[$key]);
+												echo $date->format('d/m/Y');
+											}else {
+												if (is_array($item)) {
+													foreach ($item as $aux) {
+														if (sizeof($item) == array_search($aux, $item) + 1)
+															echo $aux;
+														else
+															echo $aux . ", ";
+													}
+												} else
+													echo $item;
+											}
+										?></p>
+									</div>
+								<?php} else{
+								foreach ($item as $feedbackKey => $feedback){ ?>
+									<div class="col-lg-12 col-md-12 cold-sm-12 cold-xs-12">
+									<!-- <?= $item; ?> -->
+									<div class="form-group">
+										<label><?= $key; ?>:</label>
+										<p><?
+											if($key == "Inserted on" || $key == "Expiration"){
+												$date = new DateTime($var[$key]);
+												echo $date->format('d/m/Y');
+											}else {
+												if (is_array($item)) {
+													foreach ($item as $aux) {
+														if (sizeof($item) == array_search($aux, $item) + 1)
+															echo $aux;
+														else
+															echo $aux . ", ";
+													}
+												} else
+													echo $item;
+											}
+										?></p>
+									</div>
+								}
+							}?>
 							</div>
 						<?php endforeach; ?>
 					</div>

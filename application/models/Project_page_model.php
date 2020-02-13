@@ -94,7 +94,18 @@ class Project_page_model extends CI_Model
 				}
 			}
 
-			$modelView = $this->getModelView($techniqueResult);
+			$modelView =  $this->getModelView($techniqueResult);
+
+			$contFeedback = 0;
+			$tempFeedbackQuery = $this->db->select('*')->from("ResultFeedback")->where('idTechniqueResult', $userResult['id'])->get();
+			foreach ($tempFeedbackQuery->result_array() as $feedbackResult) {
+				$modelView['Feedback'][$contFeedback]['Technique Title'] = $feedbackResult['titleTechnique'];
+				$modelView['Feedback'][$contFeedback]['Strengths'] = $feedbackResult['strengths'];
+				$modelView['Feedback'][$contFeedback]['Weaknesses'] = $feedbackResult['weaknesses'];
+				$modelView['Feedback'][$contFeedback]['Difficulties'] = $feedbackResult['difficulties'];
+				$modelView['Feedback'][$contFeedback]['Satisfaction'] = $feedbackResult['satisfaction'];
+				$contFeedback++;
+			}
 
 			$data['info'][] = $modelView;
 		}
