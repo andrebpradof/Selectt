@@ -150,9 +150,12 @@ class Results extends MY_Controller { // Verificacao de login
 		foreach ($bugs as $bug) {
 			$cont = 0;
 			$table .= "<table border = '1'>";
+			// Title Bug
 			$table .= "<tr>";
 			$table .= "	<th colspan='28'>".$bug['concurrentBug']."</th>";
 			$table .= "</tr>";
+			//End Title Bug
+			// Ini Titles
 			$table .= "<tr>";
 			$table .= "		<th>Title</th>";
 			$table .= "		<th>Link</th>";
@@ -173,6 +176,8 @@ class Results extends MY_Controller { // Verificacao de login
 				$cont++;
 			}
 			$table .= "</tr>";
+			// End Titles
+			// Ini informations
 			$cont = 0;
 			foreach ($bug['technique'] as $technique) {
 				$flag = 0;
@@ -186,10 +191,10 @@ class Results extends MY_Controller { // Verificacao de login
 						$end = sizeof($atribute['features']);
 						$table .= "<td>";
 						foreach ($atribute['features'] as $features) {
-							if($cont == $end)
+							if($cont == $end-1)
 								$table .= "$features";
 							else{
-								$table .= "<td>" . $features. ", </td>";
+								$table .= $features. ", ";
 							}
 							$cont++;
 						}
@@ -205,11 +210,16 @@ class Results extends MY_Controller { // Verificacao de login
 			$table .= "<br>";
 		}
 
-		header('Content-Type: application/vnd.ms-excel');
-		header('Content-Disposition: attachment;filename="result.xls"');
-		header('Cache-Control: max-age=0');
-		// Se for o IE9, isso talvez seja necessário
-		header('Cache-Control: max-age=1');
+		// Determina que o arquivo é uma planilha do Excel
+		header("Content-type: application/vnd.ms-excel");
+
+		// Força o download do arquivo
+		header("Content-type: application/force-download");
+
+		// Seta o nome do arquivo
+		header("Content-Disposition: attachment; filename=result.xls");
+
+		header("Pragma: no-cache");
 
 		// Envia o conteúdo do arquivo
 		echo $table;
