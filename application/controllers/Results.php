@@ -33,9 +33,7 @@ class Results extends MY_Controller { // Verificacao de login
 		redirect(base_url('results'));
 	}
 
-	protected function resultsTechniques ($id)
-	{
-		// echo $id;
+	protected function calculate($id){
 		$allWeights = $this->utility->getFields();
 		$allTechniques = $this->technique->buildTechniques();
 		$resultTechnique = $this->result->buildTechniqueResult($id);
@@ -83,7 +81,7 @@ class Results extends MY_Controller { // Verificacao de login
 			$count++;
 		}// end foreach
 
-	// order by weight
+		// order by weight
 		for ($i = 0; $i < count($result) - 1; $i++) {
 			for ($j = 0; $j < count($result) - $i - 1; $j++) {
 				if ($result[$j+1]['result_weight'] > $result[$j]['result_weight']) {
@@ -136,7 +134,86 @@ class Results extends MY_Controller { // Verificacao de login
 		$data['result'] = $bugsResult;
 		$data['allTechniques'] = $result;
 
+		return $data;
+	}
+
+	protected function resultsTechniques ($id)
+	{
+		$data = $this->calculate($id);
 		$this->load->view('form/results_page', $data);
+	}
+
+	public function export(){
+		$data = $this->calculate($_SESSION['result_user']);
+		$bugs = $data['result'];
+		$table = "";
+		foreach ($bugs as $bug) {
+			$cont = 0;
+			$table .= "<table border = '1'>";
+			$table .= "<tr>";
+			$table .= "	<th colspan='28'>".$bug['concurrentBug']."</th>";
+			$table .= "</tr>";
+			$table .= "<tr>";
+			$table .= "		<th>Title</th>";
+			$table .= "		<th>Link</th>";
+			$table .= "		<th>Programming model weight</th>";
+			$table .= "		<th>General testing characteristics weight</th>";
+			$table .= "		<th>Concurrent testing characteristics weight</th>";
+			$table .= "		<th>Testing tool support weight</th>";
+			foreach ($bug['technique'][0] as $atribute){
+				if($cont < 7){
+					$cont++;
+					continue;
+				}
+				if($cont == 28){
+					$table .= "<th>Weight result</th>";
+					continue;
+				}
+				$table .= "<th>".$atribute['atribute']."</th>";
+				$cont++;
+			}
+			$table .= "</tr>";
+			$cont = 0;
+			foreach ($bug['technique'] as $technique) {
+				$flag = 0;
+				$table .= "<tr>";
+				foreach ($technique as $atribute) {
+					if($flag == 0){
+						$flag = 1;
+						continue;
+					}
+					if(is_array($atribute)){
+						$end = sizeof($atribute['features']);
+						$table .= "<td>";
+						foreach ($atribute['features'] as $features) {
+							if($cont == $end)
+								$table .= "$features";
+							else{
+								$table .= "<td>" . $features. ", </td>";
+							}
+							$cont++;
+						}
+						$cont = 0;
+						$table .= "</td>";
+					}else {
+						$table .= "<td>" . $atribute . "</td>";
+					}
+				}
+				$table .= "</tr>";
+			}
+			$table .= "</table>";
+			$table .= "<br>";
+		}
+
+		header('Content-Type: application/vnd.ms-excel');
+		header('Content-Disposition: attachment;filename="result.xls"');
+		header('Cache-Control: max-age=0');
+		// Se for o IE9, isso talvez seja necessário
+		header('Cache-Control: max-age=1');
+
+		// Envia o conteúdo do arquivo
+		echo $table;
+		exit;
 	}
 }
 

@@ -5858,6 +5858,31 @@ INSERT INTO `dbo`.`Technique` (`id`, `title`, `year`, `bibTex`, `link`, `needApp
         )
     ENGINE = InnoDB;
 
+    DROP TABLE IF EXISTS `dbo`.`ResultSuggestedTechnique.`;
+
+    CREATE TABLE IF NOT EXISTS `dbo`.`ResultSuggestedTechnique` (
+      `id` INT NOT NULL AUTO_INCREMENT,
+      `idTechniqueResult` INT NOT NULL,
+      `idTechnique` INT NOT NULL,
+      `titleTechnique` VARCHAR(255) NOT NULL,
+      PRIMARY KEY (`id`),
+      UNIQUE INDEX `id_UNIQUE` (`id` ASC),
+      INDEX `idTechniqueResult_idx` (`idTechniqueResult` ASC),
+      INDEX `idTechnique_idx` (`idTechnique` ASC),
+      CONSTRAINT `idTechniqueResult_23`
+        FOREIGN KEY (`idTechniqueResult`)
+        REFERENCES `dbo`.`ResultTechnique` (`id`)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE,
+      CONSTRAINT `idTechnique_23`
+        FOREIGN KEY (`idTechnique`)
+        REFERENCES `dbo`.`Technique` (`id`)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE
+        )
+    ENGINE = InnoDB;
+
+
 
     -- CHECKS
     SET SQL_MODE=@OLD_SQL_MODE;

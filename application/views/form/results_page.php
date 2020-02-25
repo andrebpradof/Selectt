@@ -300,8 +300,12 @@
 
 	<br>
 	<br>
-	<br>
 
+	<a href="<?= base_url("results/export");?>">
+		<button style="float: right;" type="button" class="btn btn-xs btn-primary">
+			<span class="glyphicon glyphicon-export"></span> Export in spreadsheet
+		</button>
+	</a>
 
 	<?php
 		$idPanel = 0;
