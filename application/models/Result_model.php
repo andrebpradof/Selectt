@@ -164,9 +164,9 @@ class Result_model extends CI_Model
           $tempResultQuery = $this->db->select($value)->from($key)->where('idTechniqueResult', $id)->get();
           
           $count = 0;
-          foreach ($tempResultQuery->result() as $row) {
-              $techniqueResult[$value][$count++] = $row->$value;
-          }
+			foreach ($tempResultQuery->result() as $row) {
+				$techniqueResult[$value][$count++] = $row->$value;
+			}
         }
 
         return $techniqueResult;
@@ -191,11 +191,45 @@ class Result_model extends CI_Model
 				'title' => $row->title,
 				'insertedBy' => $row->insertedBy,
 				'insertedOn' => $row->insertedOn,
-				'expiration' => $row->expiration
+				'expiration' => $row->expiration,
+				'description' => $row->description
 			);
 		}
 
 		return $list;
+	}
+
+	function getSusggestedTechnique($idTechnique, $idTechniqueResult){
+		$query = $this->db->select('*')->from('ResultSuggestedTechnique')->where('idTechnique', $idTechnique,'idResultTechnique',$idTechniqueResult)->limit(1)->get();
+		$result = $query->row_array();
+		return $result;
+	}
+
+	function insertSuggestedTechniques($techniques,$idTechniqueResult){
+		foreach ($techniques as $technique){
+			if($this->getSusggestedTechnique($technique['id'],$idTechniqueResult) != null)
+				continue;
+			$data = array(
+				'idTechnique' => $technique['id'],
+				'idTechniqueResult' => $idTechniqueResult,
+				'titleTechnique'    => $technique['title']
+
+			);
+
+			$this->db->insert('ResultSuggestedTechnique', $data);
+
+			if ($this->db->affected_rows() != 1) {
+				$error = $this->db->error();
+
+				if ($error['code'] == 1062) {
+					return "Sorry but this atribute is already in database!";
+				} else {
+					return "Unknown error, please contact the administrator !";
+				}
+
+			}
+		}
+		return TRUE;
 	}
 }
 ?>

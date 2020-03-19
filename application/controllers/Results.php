@@ -217,7 +217,8 @@ class Results extends MY_Controller { // Verificacao de login
 		header("Content-type: application/force-download");
 
 		// Seta o nome do arquivo
-		header("Content-Disposition: attachment; filename=result.xls");
+		$filename = $data['info']['title'].".xls";
+		header("Content-Disposition: attachment; filename=".$filename);
 
 		header("Pragma: no-cache");
 

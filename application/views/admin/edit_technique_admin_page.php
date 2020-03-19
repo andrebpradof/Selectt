@@ -219,7 +219,6 @@
       if (httpRequest.readyState === 4) {
         if (httpRequest.status === 200) {
           let data = JSON.parse(httpRequest.responseText);
-
           $('#title').val(data.title);
           $('#year').val(data.year);
           $('#bibtex').val(data.bibTex);

@@ -488,7 +488,7 @@
 	<hr>
 
 	<!--<input type="checkbox" hidden value="" id="userResultId" name="userResultId" checked> -->
-	<button type="submit" class="btn btn-block btn-info btn-model" id="button" > Give Feedback</button>
+	<button type="submit" class="btn btn-block btn-info btn-model" id="button" > Submit suggested techniques</button>
 
 </div>
 <? endif; ?>

@@ -143,7 +143,7 @@ class Form extends MY_Controller {
       	foreach ($selected as $id){
       		$techniques[] = $this->technique->getTechniqueTable($id);
 		}
-
+		$this->result->insertSuggestedTechniques($techniques,$_SESSION['result_user']);
       	$data['techniques'] = $techniques;
 
       	$this->load->view('form/feedback_page',$data);
@@ -161,10 +161,27 @@ class Form extends MY_Controller {
 			$sql[$cont]['idTechniqueResult'] = $result_id;
 			$sql[$cont]['idTechnique'] = $technique['id'];
 			$sql[$cont]['titleTechnique'] = $technique['title'];
-			$sql[$cont]['strengths'] = $this->input->post("strengths".$technique['id'], TRUE);
-			$sql[$cont]['weaknesses'] = $this->input->post("weaknesses".$technique['id'], TRUE);
-			$sql[$cont]['difficulties'] = $this->input->post("difficulties".$technique['id'], TRUE);
-			$sql[$cont]['satisfaction'] = $this->input->post("satisfaction".$technique['id'], TRUE);
+
+			if($this->input->post("strengths".$technique['id'], TRUE) != "")
+				$sql[$cont]['strengths'] = $this->input->post("strengths".$technique['id'], TRUE);
+			else
+				$sql[$cont]['strengths'] = "No information";
+
+			if($this->input->post("weaknesses".$technique['id'], TRUE) != "")
+				$sql[$cont]['weaknesses'] = $this->input->post("weaknesses".$technique['id'], TRUE);
+			else
+				$sql[$cont]['weaknesses'] = "No information";
+
+			if($this->input->post("difficulties".$technique['id'], TRUE) != "")
+				$sql[$cont]['difficulties'] = $this->input->post("difficulties".$technique['id'], TRUE);
+			else
+				$sql[$cont]['difficulties'] = "No information";
+
+			if($this->input->post("satisfaction".$technique['id'], TRUE) != "")
+				$sql[$cont]['satisfaction'] = $this->input->post("satisfaction".$technique['id'], TRUE);
+			else
+				$sql[$cont]['satisfaction'] = "No information";
+
 			$this->result->insertTechniqueResultAtributes("ResultFeedback",$sql[$cont]);
 			$cont++;
 		}

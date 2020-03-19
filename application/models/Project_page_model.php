@@ -96,6 +96,19 @@ class Project_page_model extends CI_Model
 
 			$modelView =  $this->getModelView($techniqueResult);
 
+			$contSuggestedTechniques = 1;
+			$modelView['Suggested Techniques'] = "";
+			$tempSuggestedTechniquesQuery = $this->db->select('titleTechnique')->from("ResultSuggestedTechnique")->where('idTechniqueResult', $userResult['id'])->get();
+			$suggestedTechniques = $tempSuggestedTechniquesQuery->result_array();
+			foreach ($suggestedTechniques as $suggestedTechnique){
+				if($contSuggestedTechniques == sizeof($suggestedTechniques))
+					$modelView['Suggested Techniques'] .= $suggestedTechnique['titleTechnique'];
+				else
+					$modelView['Suggested Techniques'] .= $suggestedTechnique['titleTechnique'].", ";
+
+				$contSuggestedTechniques++;
+			}
+
 			$contFeedback = 0;
 			$tempFeedbackQuery = $this->db->select('*')->from("ResultFeedback")->where('idTechniqueResult', $userResult['id'])->get();
 			foreach ($tempFeedbackQuery->result_array() as $feedbackResult) {

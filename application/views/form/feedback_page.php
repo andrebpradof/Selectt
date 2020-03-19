@@ -79,7 +79,7 @@
 	<?php endforeach; ?>
 
 	<!-- Submit Form -->
-	<button style="margin-top: 50px; border: 1px solid #8c8b8b;" type="submit" class="btn btn-block btn-primary">Submit</button>
+	<button style="margin-top: 50px; border: 1px solid #8c8b8b;" type="submit" class="btn btn-block btn-primary">Give feedback</button>
 </div>
 
 <!-- START OF FOOTER -->

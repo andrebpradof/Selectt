@@ -146,30 +146,29 @@
 			if (httpRequest.readyState === 4) {
 				if (httpRequest.status === 200) {
 					let data = JSON.parse(httpRequest.responseText);
-
 					$('#title').val(data.title);
 					$('#expiration').val(data.expiration);
-					$('#executionPlatform').tagsinput('add', data.ExecutionPlatform.toString() );
-					$('#objective').tagsinput('add', data.Objective.toString() );
-					$('#programmingLanguage').tagsinput('add', data.ProgrammingLanguage.toString() );
-					$('#testingTechnique').tagsinput('add', data.TestingTechnique.toString() );
-					$('#testDataGeneration').tagsinput('add', data.TestDataGeneration.toString() );
-					$('#testingLevel').tagsinput('add', data.TestingLevel.toString() );
-					$('#synchronizationMechanism').tagsinput('add', data.SynchronizationMechanism.toString() );
-					$('#input').tagsinput('add', data.Input.toString() );
-					$('#output').tagsinput('add', data.Output.toString() );
-					$('#qualityAttribute').tagsinput('add', data.QualityAttribute.toString() );
-					$('#typeOfStudy').tagsinput('add', data.TypeOfStudy.toString() );
-					$('#testingAnalysis').tagsinput('add', data.TestingAnalysis.toString() );
-					$('#concurrentParadigm').tagsinput('add', data.ConcurrentParadigm.toString() );
-					$('#replayMechanism').tagsinput('add', data.ReplayMechanism.toString() );
-					$('#programRepresentation').tagsinput('add', data.ProgramRepresentation.toString() );
-					$('#instrumentation').tagsinput('add', data.Instrumentation.toString() );
-					$('#stateSpaceReduction').tagsinput('add', data.StateSpaceReduction.toString() );
-					$('#concurrentBugs').tagsinput('add', data.ConcurrentBugs.toString() );
-					$('#toolName').tagsinput('add', data.ToolName.toString() );
-					$('#cost').tagsinput('add', data.Cost.toString() );
-					$('#platformTool').tagsinput('add', data.PlatformTool.toString() );
+					$('#executionPlatform').tagsinput('add', data.ResultExecutionPlatform.toString() );
+					$('#objective').tagsinput('add', data.ResultObjective.toString() );
+					$('#programmingLanguage').tagsinput('add', data.ResultProgrammingLanguage.toString() );
+					$('#testingTechnique').tagsinput('add', data.ResultTestingTechnique.toString() );
+					$('#testDataGeneration').tagsinput('add', data.ResultTestDataGeneration.toString() );
+					$('#testingLevel').tagsinput('add', data.ResultTestingLevel.toString() );
+					$('#synchronizationMechanism').tagsinput('add', data.ResultSynchronizationMechanism.toString() );
+					$('#input').tagsinput('add', data.ResultInput.toString() );
+					$('#output').tagsinput('add', data.ResultOutput.toString() );
+					$('#qualityAttribute').tagsinput('add', data.ResultQualityAttribute.toString() );
+					$('#typeOfStudy').tagsinput('add', data.ResultTypeOfStudy.toString() );
+					$('#testingAnalysis').tagsinput('add', data.ResultTestingAnalysis.toString() );
+					$('#concurrentParadigm').tagsinput('add', data.ResultConcurrentParadigm.toString() );
+					$('#replayMechanism').tagsinput('add', data.ResultReplayMechanism.toString() );
+					$('#programRepresentation').tagsinput('add', data.ResultProgramRepresentation.toString() );
+					$('#instrumentation').tagsinput('add', data.ResultInstrumentation.toString() );
+					$('#stateSpaceReduction').tagsinput('add', data.ResultStateSpaceReduction.toString() );
+					$('#concurrentBugs').tagsinput('add', data.ResultConcurrentBugs.toString() );
+					$('#toolName').tagsinput('add', data.ResultToolName.toString() );
+					$('#cost').tagsinput('add', data.ResultCost.toString() );
+					$('#platformTool').tagsinput('add', data.ResultPlatformTool.toString() );
 
 				} else {
 					let errorHTML = '<div class="alert alert-danger" style="text-align: center;">' +  httpRequest.responseText +'</div>';

@@ -5420,6 +5420,7 @@ INSERT INTO `dbo`.`Technique` (`id`, `title`, `year`, `bibTex`, `link`, `needApp
       `insertedBy` VARCHAR(128) NOT NULL DEFAULT 'admin',
       `insertedOn` DATETIME NOT NULL,
       `expiration` DATE NOT NULL,
+      `description` VARCHAR(1000) NOT NULL,
       PRIMARY KEY (`id`),
       UNIQUE INDEX `id_UNIQUE` (`id` ASC))
     ENGINE = InnoDB;
