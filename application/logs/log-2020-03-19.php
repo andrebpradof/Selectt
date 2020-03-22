@@ -5915,3 +5915,4526 @@ ERROR - 2020-03-19 14:11:05 --> Severity: Notice --> Array to string conversion 
 ERROR - 2020-03-19 14:11:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
 ERROR - 2020-03-19 14:11:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
 ERROR - 2020-03-19 14:11:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:07 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:08 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:10 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:11 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:13 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:28:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:16 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:17 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:18 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:19 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:20 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:21 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:22 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:23 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:25 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:29:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:35:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:42 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:43 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:44 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:45 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:46 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:48 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:50 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:52 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 16:45:53 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\~selectt\application\views\content\project_page.php 93
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:07:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:19 --> Severity: Error --> Maximum execution time of 30 seconds exceeded C:\xampp\htdocs\~selectt\system\core\Log.php 229
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:08:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:09:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:10:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\~selectt\application\models\Utilidades_model.php 44
+ERROR - 2020-03-19 17:11:12 --> Severity: Error --> Maximum execution time of 30 seconds exceeded C:\xampp\htdocs\~selectt\system\core\Log.php 229

@@ -136,12 +136,18 @@
 
             <ul class="dropdown-menu">
               <li><a href="<?= base_url('insert_test');?>"><i class="glyphicon glyphicon-pencil"></i> Insert new Technique</a></li>
-              <li class="divider"></li>
-              <li><a href="<?= base_url('form');?>"><i class="glyphicon glyphicon-search"></i> Software Project Information</a></li>
-              <li class="divider"></li>
-              <li><a href="<?= base_url('results');?>"><i class="glyphicon glyphicon-pencil"></i> Results</a></li>
             </ul>
           </li>
+
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project <span class="caret"></span></a>
+
+				<ul class="dropdown-menu">
+					<li><a href="<?= base_url('form');?>"><i class="glyphicon glyphicon-search"></i> Insert new Project</a></li>
+					<li class="divider"></li>
+					<li><a href="<?= base_url('results');?>"><i class="glyphicon glyphicon-pencil"></i> Results</a></li>
+				</ul>
+			</li>
 
           <!-- Admin -->
           <? if ($this->session->userdata('is_admin')): ?>
