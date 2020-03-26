@@ -25,6 +25,33 @@
 
 <div class="container animated fadeIn">
 	<div class="row" style="padding-top: 40px;">
+
+		<!-- Andre -->
+		<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+			<div class="post-container">
+				<div class="post-thumb">
+					<img src="<? echo base_url("assets/photos/andre.jpg");?>">
+				</div>
+				<div class="post-content">
+					<strong>André Baconcelo Prado Furlanetti</strong> is currently a Bachelor in Computer Engineering student in the Institute of Mathematics and Computer Science (ICMC/USP) and Sao Carlos School of Engineering (EESC/USP), Brazil. His research interests include software testing, concurrent programming, concurrente software testing, and web applications.
+				</div>
+			</div>
+		</div>
+
+		<!-- Italo -->
+		<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+			<div class="post-container">
+				<div class="post-thumb">
+					<img src="<? echo base_url("assets/photos/italo.jpg");?>">
+				</div>
+				<div class="post-content">
+					<strong>Ítalo Santos</strong> Holds a B.Sc. degree in Digital Media and Systems and received the title "Magna Cum Laude" from the Federal University of Ceará (2017). He is currently a Master student in the Software Engineering and Information Systems field, from the Institute of Mathematics and Computer Sciences (ICMC) of the University of São Paulo (USP). Currently, he is a researcher at the Laboratory of Software Engineering (LABES), where he develops his master's research financed by the São Paulo Research Foundation (FAPESP). Areas of interest, research and work: Software Engineering; Software Testing; Testing of Concurrent Programs; Empirical Software Engineering; Software quality; Software Ecosystems.
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row" style="padding-top: 40px;">
 		<!-- Paulo -->
 		<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 			<div class="post-container">                
