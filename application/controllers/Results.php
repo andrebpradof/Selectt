@@ -43,7 +43,6 @@ class Results extends MY_Controller { // Verificacao de login
 		$count = 0;
 		$numBugsUser = sizeof($resultTechnique['concurrentBugs']);
 
-
 		foreach ($allTechniques as $technique) {
 			$result[$count]['id'] = $technique['id'];
 			$result[$count]['title'] = $technique['title'];
@@ -57,6 +56,7 @@ class Results extends MY_Controller { // Verificacao de login
 			$result[$count]['Concurrent testing characteristics'] = floatval(0.000);
 			$result[$count]['Testing tool support'] = floatval(0.000);
 
+			//var_dump($technique);
 
 			foreach ($allWeights['fields'] as $weight) {
 				// just to help reading the code ...

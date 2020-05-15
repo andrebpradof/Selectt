@@ -33,7 +33,7 @@ class Result_model extends CI_Model
 	// delete user result, only on admin page
 	function deleteUserResult ($id)
 	{
-		$this->db->delete('resulttechnique', array('id' =>  $id));
+		$this->db->delete('ResultTechnique', array('id' =>  $id));
 	}
 
 	function deleteAllUserResultsAtributes ($tableName, $id)

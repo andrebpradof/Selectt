@@ -22,13 +22,12 @@
 
 	  
 	<div class="panel-body" style="padding:0px">
-		<table id="techniquesTable" class="table table-striped table-bordered" cellspacing="0" width="100%" style="margin:0px">
+		<table  id="techniquesTable" class="table table-striped table-bordered" cellspacing="0" width="100%" style="margin:0px">
 		    
 		    <thead>
-		    	<tr>
+		    	<tr style="width: 100%">
 			        <th>Testing Technique</th>
 			        <th>Title</th>
-			    	<th>Testing Approach</th>
 			        <th>Language</th>
 			        <th>Actions</th>
 		        </tr>
@@ -39,10 +38,9 @@
 			<? if (isset($info)): ?>
 				<?php foreach($info as $var) { ?>
 					<tr>
-						<td><?php echo $var['Technique']; ?></td>
-						<td><?php echo $var['Title']; ?></td>
-						<td><?php echo $var['Approach']; ?></td>
-						<td><?php echo $var['Language']; ?></td>
+						<td><?= $var['Testing technique']; ?></td>
+						<td><?= $var['Title']; ?></td>
+						<td><?= $var['Programming language']; ?></td>
 						<td>
 					 	<!-- View button -->
 						    <button type="button" id="<?php echo $var['ID']; ?>" class="btn btn-xs btn-primary" onclick="openModal(this.id)">
@@ -66,7 +64,7 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h2 class="modal-title"><?php echo $var['Approach']; ?> Information</h2>
+        <h2 class="modal-title"><?php echo $var['Title']; ?> Information</h2>
 
     	<button type="button" class="close" aria-label="Close" data-dismiss="modal">
       		<span aria-hidden="true">&times;</span>
